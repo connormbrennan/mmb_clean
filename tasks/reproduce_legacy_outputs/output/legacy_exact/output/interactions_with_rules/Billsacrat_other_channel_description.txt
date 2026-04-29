@@ -1,0 +1,5 @@
+Artifact: Billsacrat_other_channel.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/Billsacrat_other_channel.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: d31acf105424293308c0c6d72ac8fdf14220c820e42ffdffc1a8406dbf2d9a19

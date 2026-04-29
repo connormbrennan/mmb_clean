@@ -1,0 +1,5 @@
+Artifact: IS20_nonmodvars_rules.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/IS20_nonmodvars_rules.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 56d36fbb2e066d18cfe3c7f49695943e9969990b2ffeeadc13ebb23480ceb56b

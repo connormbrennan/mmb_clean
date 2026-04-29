@@ -1,0 +1,5 @@
+Artifact: Growth Estimated.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Growth Estimated.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 770ad2e985d5fa936eeb75a3bc6bbf80183e379f41efb3f47ff4b13c63762190

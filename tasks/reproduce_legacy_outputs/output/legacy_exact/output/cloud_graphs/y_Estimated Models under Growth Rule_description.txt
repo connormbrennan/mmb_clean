@@ -1,0 +1,5 @@
+Artifact: y_Estimated Models under Growth Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Estimated Models under Growth Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 945f6bb5977d6906b2d36a0caa663f744fd8711091cfc1e9479447ca7e9065a1

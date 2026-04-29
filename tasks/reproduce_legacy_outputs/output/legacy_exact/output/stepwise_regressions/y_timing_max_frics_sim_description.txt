@@ -1,0 +1,5 @@
+Artifact: y_timing_max_frics_sim.pdf
+Copied from: legacy/mmb_upgraded/output/stepwise_regressions/y_timing_max_frics_sim.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 00c4415e6bd2a101fc6d01f17a6f79ed7def53433f859051696e092ac400fc25

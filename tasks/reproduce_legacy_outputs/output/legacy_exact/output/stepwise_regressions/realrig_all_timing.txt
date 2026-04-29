@@ -1,0 +1,30 @@
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{y\_timing\_max}&\multicolumn{1}{c}{piq\_timing\_max}\\
+\midrule
+main                &                     &                     \\
+Growth Rule         &       0.509\sym{***}&       0.268         \\
+                    &     (0.163)         &     (0.196)         \\
+\addlinespace
+Inertial Taylor Rule&       0.312\sym{**} &       0.111         \\
+                    &     (0.129)         &     (0.186)         \\
+\addlinespace
+Estimated           &       0.718\sym{***}&       0.920\sym{***}\\
+                    &     (0.094)         &     (0.102)         \\
+\addlinespace
+Wealth Effect=1 $\times$ Open=1&       0.167         &       0.133         \\
+                    &     (0.204)         &     (0.208)         \\
+\addlinespace
+Learning            &       0.512\sym{*}  &                     \\
+                    &     (0.306)         &                     \\
+\addlinespace
+Net Worth Effect    &                     &      -0.711\sym{***}\\
+                    &                     &     (0.229)         \\
+\addlinespace
+Bank Credit Effect  &                     &       0.651\sym{**} \\
+                    &                     &     (0.276)         \\
+\addlinespace
+Constant            &       0.085         &       0.308\sym{**} \\
+                    &     (0.114)         &     (0.143)         \\
+\midrule
+Observations        &     217.000         &     217.000         \\
+Pseudo $R^2$        &       0.106         &       0.168         \\

@@ -1,0 +1,5 @@
+Artifact: ntwrth.png
+Copied from: legacy/mmb_upgraded/bob/graphs_ols/ntwrth.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 962c62969d2be782a7ed7e17c3c5dc7f47f3a3175d3d4b1d62de5c18170fc106

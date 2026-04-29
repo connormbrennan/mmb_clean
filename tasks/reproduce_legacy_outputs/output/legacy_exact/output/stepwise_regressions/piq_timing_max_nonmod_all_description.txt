@@ -1,0 +1,5 @@
+Artifact: piq_timing_max_nonmod_all.pdf
+Copied from: legacy/mmb_upgraded/output/stepwise_regressions/piq_timing_max_nonmod_all.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 3d1e583c631c47e8525c67a6f307eb1f3c2609a89a3c4d83d0c7e786f9f114ae

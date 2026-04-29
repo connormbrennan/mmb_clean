@@ -1,0 +1,5 @@
+Artifact: sacratio_wlth.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/sacratio_wlth.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: ac110f42468104c5ad61b8f40aa27f917251eb2b708811e62e5b7f029b9c39b5

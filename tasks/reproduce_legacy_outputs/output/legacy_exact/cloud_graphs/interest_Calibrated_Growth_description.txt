@@ -1,0 +1,5 @@
+Artifact: interest_Calibrated_Growth.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/interest_Calibrated_Growth.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: d69f06f5f82d043a6a92f3b2e4cd8aa69b0818a7f5458113ce2ee2ee8ee3bf94

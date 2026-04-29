@@ -1,0 +1,5 @@
+Artifact: irate_timing_min_rules_timing_hist.pdf
+Copied from: legacy/mmb_upgraded/output/summarystats/irate_timing_min_rules_timing_hist.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: a773b5098248b904172af8b4cb5e5f3b12152ba7c4ecf9c4fec93646153aa7d7

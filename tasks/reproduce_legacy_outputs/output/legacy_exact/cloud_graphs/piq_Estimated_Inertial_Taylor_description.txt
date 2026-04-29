@@ -1,0 +1,5 @@
+Artifact: piq_Estimated_Inertial_Taylor.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/piq_Estimated_Inertial_Taylor.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 0494d4a83df380973c71cf666e86f0a9b5fbbc27095a13b5061e68da8140b9da

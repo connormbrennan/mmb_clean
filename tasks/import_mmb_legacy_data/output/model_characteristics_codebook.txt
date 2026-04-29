@@ -1,0 +1,69 @@
+Model characteristics source workbook
+====================================
+
+Source: legacy/mmb_upgraded/data/raw/Model_Characteristics_corrections.xlsx
+Rows: 127
+Columns: 49
+
+Columns and dtypes
+------------------
+Model: object
+CB_Authors: float64
+Date_Pub: object
+Working_Paper: float64
+Published: float64
+Rule_Used: object
+Estimated: float64
+Calibrated: float64
+Est_Date_Range_Start: object
+Est_Date_Range_End: object
+Final_MMB_Count: float64
+Confident: object
+Open: float64
+Linear: float64
+Interest_Rate_Channel: float64
+Net_Worth_Effect_Non_Households: object
+Wealth_Effect_Channel_Households: object
+Bank_Credit_Channel: object
+Gov_Spend: float64
+Tax: float64
+Gov_Debt: float64
+Learning: float64
+Rational_Expectations: object
+Lagged_Terms: object
+Sticky_Prices: object
+Sticky_Price_Method: object
+Sticky_Price_Sector: object
+Sticky_Wages: object
+Sticky_Wage_Method: object
+Price_Indexation: object
+Price_Index_Method: object
+Price_Index_Coverage: object
+Wage_Indexation: object
+Wage_Index_Method: object
+Wage_Index_Coverage: object
+RHS_Driver: float64
+Child of : object
+Grandchild of: object
+Cites: float64
+Link: object
+DOI: object
+Size_of_Model: float64
+Appendix Link: object
+Appendix_Eqs: float64
+Confident2: object
+File_Size: float64
+Non-Commented_Lines_All: object
+Non-Commented_Lines_No-Flex: float64
+Non-Comm_Lines_Restricted: float64
+
+First 5 rows
+------------
+     Model  CB_Authors            Date_Pub  Working_Paper  Published   Rule_Used  Estimated  Calibrated Est_Date_Range_Start Est_Date_Range_End  Final_MMB_Count Confident  Open  Linear  Interest_Rate_Channel Net_Worth_Effect_Non_Households Wealth_Effect_Channel_Households Bank_Credit_Channel  Gov_Spend  Tax  Gov_Debt  Learning Rational_Expectations Lagged_Terms Sticky_Prices Sticky_Price_Method Sticky_Price_Sector Sticky_Wages Sticky_Wage_Method Price_Indexation   Price_Index_Method Price_Index_Coverage Wage_Indexation Wage_Index_Method Wage_Index_Coverage  RHS_Driver                        Child of  Grandchild of   Cites                                                                Link                                           DOI  Size_of_Model Appendix Link  Appendix_Eqs Confident2  File_Size Non-Commented_Lines_All  Non-Commented_Lines_No-Flex  Non-Comm_Lines_Restricted
+G2_SIGMA08    1.000000 2008-08-01 00:00:00            0.0        1.0       Other        0.0         1.0                  NaN                NaN             72.0     False   1.0     1.0                    1.0                      No Mention                       No Mention          No Mention        1.0  1.0       1.0       0.0                  True         True          True               Calvo  Intermediate Firms         True              Calvo             True Prev Price Inflation                 Full           False               NaN                 NaN         NaN                              NaN           NaN    82.0 https://www.sciencedirect.com/science/article/pii/S0165188907002096    https://doi.org/10.1016/j.jedc.2007.09.015           15.0           NaN           NaN        NaN        NaN                     NaN                          NaN                        NaN
+   G3_CW03    1.000000 2003-01-14 00:00:00            1.0        0.0 Taylor-type        1.0         0.0               1980Q1             1998Q4              9.0      SEMI   1.0     1.0                    1.0                      No Mention                       No Mention          No Mention        0.0  0.0       0.0       0.0                  True         True          True               Other                 NaN         True   Wage contracting            False                  NaN                  NaN           False               NaN                 NaN         NaN         US_FM95; Taylor (1980);           N/A     51.0          https://papers.ssrn.com/sol3/papers.cfm?abstract_id=358201                                           NaN           15.0           NaN           NaN        NaN        NaN                     NaN                          NaN                        NaN
+  G7_TAY93    1.000000 1993-01-01 00:00:00            0.0        1.0 Taylor-type        1.0         0.0               1971Q1             1986Q4             14.0     False   1.0     0.0                    1.0                      No Mention                       No Mention               False        1.0  0.0       0.0       0.0                  True         True          True               Other          Everywhere         True  Wage Contracting             False                  NA                   NaN           False               NA                  NaN         NaN                             N/A           N/A    828.0               https://web.stanford.edu/~johntayl/MacPolBk/chap3.pdf                                           NaN            NaN           NaN           NaN        NaN        NaN                     NaN                          NaN                        NaN
+  NK_AFL15    0.333333 2015-02-01 00:00:00            0.0        1.0 Taylor-type        0.0         1.0                  NaN                NaN             25.0      True   0.0     1.0                    1.0                           False                            False                True        1.0  1.0       0.0       0.0                  True        False          True           Rotemberg          Everywhere        False                NaN            False                  NaN                  NaN           False               NA                  NaN         NaN Diamond and Rajan (2000), (2001)          N/A    378.0  http://www.sciencedirect.com/science/article/pii/S0165188914003261                    10.1016/j.jedc.2014.12.001           28.0           NaN          28.0      False       14.4                      56                         29.0                       29.0
+  NK_BGG99    0.000000 1999-01-01 00:00:00            0.0        1.0 Taylor-type        0.0         1.0                  NaN                NaN             17.0      True   0.0     1.0                    1.0                            True                            False                True        1.0  1.0       0.0       0.0            No Mention        False          True               Calvo           Retailers        False                NaN            False                  NA                   NaN           False               NA                  NaN         NaN                             N/A            NaN 10558.0 https://www.sciencedirect.com/science/article/pii/S157400489910034X https://doi.org/10.1016/S1574-0048(99)10034-X           40.0           NaN           NaN        NaN        NaN                     NaN                          NaN                        NaN
+
+Filters applied: none. This task only links the immutable source workbook.

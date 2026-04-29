@@ -1,0 +1,40 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Julia
+*.jl.cov
+*.jl.mem
+
+# Logs
+*.log
+
+# LaTeX build files
+*.aux
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Ignore task inputs/outputs by default
+tasks/*/*/input/*
+tasks/*/*/output/*
+
+# Keep the folders themselves
+!tasks/*/*/input/.gitkeep
+!tasks/*/*/output/.gitkeep
+
+# Ignore scratch figures by default
+scratch/oneoff_figures/*
+!scratch/oneoff_figures/.gitkeep

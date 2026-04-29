@@ -1,0 +1,44 @@
+{
+  "data_path": "/Users/connorbrennan/Library/CloudStorage/OneDrive-TheUniversityofChicago/mmb_upgraded/data/derived/MMB_reg_format.dta",
+  "n_rows_after_timing_filter": 217,
+  "paper_base_covariates": [
+    "rule_itr",
+    "rule_g",
+    "estimated",
+    "stky_wg",
+    "wg_ndx",
+    "pr_ndx",
+    "wlth",
+    "bnkcrdit",
+    "ntwrth",
+    "open",
+    "cb_authors_ext",
+    "ln_neq",
+    "vint_mid",
+    "vint_late"
+  ],
+  "fixed_effect_columns": [
+    "rule_itr",
+    "rule_g",
+    "estimated",
+    "calibrated"
+  ],
+  "exclude_from_interactions": [
+    "rule_itr",
+    "rule_g"
+  ],
+  "n_base_covariates": 14,
+  "n_covariates_with_interactions_after_sparse_filter": 67,
+  "min_models_for_binary_feature_value_1": 5,
+  "n_sparse_binary_features_dropped": 13,
+  "zero_tolerance": 1e-08,
+  "elasticity_outcomes": {
+    "IScurve20": "y-slope",
+    "infl_per_rr20": "pi-slope",
+    "sacratio20": "sacratio"
+  },
+  "timing_outcomes": {
+    "y_timing_max": "y-timing",
+    "piq_timing_max": "pi-timing"
+  }
+}

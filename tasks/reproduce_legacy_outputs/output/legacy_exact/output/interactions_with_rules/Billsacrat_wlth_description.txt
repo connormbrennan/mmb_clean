@@ -1,0 +1,5 @@
+Artifact: Billsacrat_wlth.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/Billsacrat_wlth.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: de42330ef5e5babb6a03100558cd74e7f54986adba51c8e07301cd40b5cc1ab1

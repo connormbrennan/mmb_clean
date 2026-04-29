@@ -1,0 +1,23 @@
+model,model_occurrence,column,column_occurrence,safecopy_cell,safecopy_value,safecopy_type,corrections_cell,corrections_value,corrections_type
+G3_CW03,1,Lagged_Terms,1,X40,False,bool,X3,True,bool
+G7_TAY93,1,Working_Paper,1,D87,True,bool,D4,False,bool
+G7_TAY93,1,Published,1,E87,False,bool,E4,True,bool
+G7_TAY93,1,Sticky_Price_Method,1,Z87,Wage Contracting,str,Z4,Other,str
+NK_AFL15,1,Rational_Expectations,1,W41,No Mention,str,W5,True,bool
+NK_BGG99,1,Tax,1,T42,False,bool,T6,True,bool
+NK_BGUS10,1,Linear,1,N74,False,bool,N7,True,bool
+NK_CFP10,1,Bank_Credit_Channel,1,R43,True,bool,R8,False,bool
+NK_CGG02,1,Working_Paper,1,D44,False,bool,D9,True,bool
+NK_CGG02,1,Published,1,E44,True,bool,E9,False,bool
+NK_CGG99,1,Lagged_Terms,1,X45,False,bool,X10,True,bool
+NK_CGG99,1,Sticky_Wages,1,AB45,True,bool,AB10,False,bool
+NK_CGG99,1,Sticky_Wage_Method,1,AC45,Monopsony ,str,AC10,NA,str
+NK_CK08,1,Rational_Expectations,1,W46,No Mention,str,W11,True,bool
+NK_CK08,1,Sticky_Price_Sector,1,AA46,Retailers,str,AA11,Wholesale,str
+NK_CKL09,1,Rational_Expectations,1,W47,No Mention,str,W12,True,bool
+NK_CW09,1,Gov_Spend,1,S5,False,bool,S13,True,bool
+NK_CW09,1,Tax,1,T5,False,bool,T13,True,bool
+NK_CW09,1,Gov_Debt,1,U5,False,bool,U13,True,bool
+US_CET15,1,Wealth_Effect_Channel_Households,1,Q3,No Mention,str,Q51,True,bool
+US_CET15,1,Rational_Expectations,1,W3,No Mention,str,W51,True,bool
+US_CET15,1,Lagged_Terms,1,X3,False,bool,X51,True,bool

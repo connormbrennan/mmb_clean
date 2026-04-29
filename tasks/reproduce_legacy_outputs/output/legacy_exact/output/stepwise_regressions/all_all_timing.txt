@@ -1,0 +1,54 @@
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{y\_timing\_max}&\multicolumn{1}{c}{piq\_timing\_max}\\
+\midrule
+main                &                     &                     \\
+Growth Rule         &       0.618\sym{***}&       0.268\sym{*}  \\
+                    &     (0.187)         &     (0.145)         \\
+\addlinespace
+Inertial Taylor Rule&       0.398\sym{**} &       0.110         \\
+                    &     (0.156)         &     (0.135)         \\
+\addlinespace
+Estimated           &       0.668\sym{***}&       0.832\sym{***}\\
+                    &     (0.152)         &     (0.156)         \\
+\addlinespace
+Net Worth Effect=1 $\times$ Learning=1&       0.550         &                     \\
+                    &     (0.335)         &                     \\
+\addlinespace
+Central Bank Author &       1.148\sym{***}&       1.290\sym{***}\\
+                    &     (0.350)         &     (0.194)         \\
+\addlinespace
+Open                &       0.620\sym{***}&       1.105\sym{***}\\
+                    &     (0.193)         &     (0.265)         \\
+\addlinespace
+Early Vintage=1 $\times$ Early Estimation=1&       0.545         &                     \\
+                    &     (0.728)         &                     \\
+\addlinespace
+Sticky Wages        &       0.251\sym{*}  &                     \\
+                    &     (0.137)         &                     \\
+\addlinespace
+Wealth Effect       &      -0.303\sym{*}  &                     \\
+                    &     (0.169)         &                     \\
+\addlinespace
+ln(Num. of Eq.)     &                     &      -0.424\sym{***}\\
+                    &                     &     (0.130)         \\
+\addlinespace
+Late Vintage        &                     &      -0.748\sym{***}\\
+                    &                     &     (0.162)         \\
+\addlinespace
+Bank Credit Effect  &                     &       0.790\sym{***}\\
+                    &                     &     (0.255)         \\
+\addlinespace
+Sticky Wages=1 $\times$ not\_pr\_ndx=1&                     &       0.088         \\
+                    &                     &     (0.293)         \\
+\addlinespace
+Net Worth Effect    &                     &      -0.265\sym{**} \\
+                    &                     &     (0.132)         \\
+\addlinespace
+Early Vintage       &                     &       0.304         \\
+                    &                     &     (0.193)         \\
+\addlinespace
+Constant            &      -0.479         &       0.164         \\
+                    &     (0.308)         &     (0.277)         \\
+\midrule
+Observations        &     144.000         &     217.000         \\
+Pseudo $R^2$        &       0.157         &       0.307         \\

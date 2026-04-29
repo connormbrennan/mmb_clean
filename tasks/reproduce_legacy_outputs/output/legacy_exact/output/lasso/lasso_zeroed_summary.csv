@@ -1,0 +1,6 @@
+outcome,label,model_family,n_obs,n_features,n_zero,n_nonzero,share_zero,best_alpha,cv_score
+IScurve20,y-slope,huber_l1,217,64,15,49,0.234375,0.003511191734215131,0.757291223378536
+infl_per_rr20,pi-slope,huber_l1,217,64,63,1,0.984375,0.1,0.4812236005609162
+piq_timing_max,pi-timing,nb_l1,217,64,56,8,0.875,0.05,
+sacratio20,sacratio,huber_l1,192,64,0,64,0.0,0.0002848035868435802,13.89170195216217
+y_timing_max,y-timing,nb_l1,217,64,60,4,0.9375,0.05,

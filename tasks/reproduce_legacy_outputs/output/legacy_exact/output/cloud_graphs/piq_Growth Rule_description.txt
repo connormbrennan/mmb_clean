@@ -1,0 +1,5 @@
+Artifact: piq_Growth Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Growth Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: bba5750466e62e6809ce05b34c6444d49a5558c2fdf3bc00199a82935c14bac3

@@ -1,0 +1,5 @@
+Artifact: Inertial_Taylor Other.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Inertial_Taylor Other.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: da0add070bfe0b42b8b765de010f264341b90838874b71486462ec2289c9c94d

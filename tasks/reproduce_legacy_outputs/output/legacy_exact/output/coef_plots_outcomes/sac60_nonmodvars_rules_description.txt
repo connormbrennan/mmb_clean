@@ -1,0 +1,5 @@
+Artifact: sac60_nonmodvars_rules.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/sac60_nonmodvars_rules.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: cdd865ec922bca65002aa9c5f07e42f9f6c86aa60234924fda0e05684219e6c7

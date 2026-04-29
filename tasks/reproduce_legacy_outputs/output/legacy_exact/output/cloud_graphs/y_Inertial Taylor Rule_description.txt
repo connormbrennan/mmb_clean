@@ -1,0 +1,5 @@
+Artifact: y_Inertial Taylor Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Inertial Taylor Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 64242421d301b0a488bbaac2bfddc000bad0274694d90e76132c4693cf3358bc

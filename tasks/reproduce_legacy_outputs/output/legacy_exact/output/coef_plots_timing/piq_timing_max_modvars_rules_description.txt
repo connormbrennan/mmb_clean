@@ -1,0 +1,5 @@
+Artifact: piq_timing_max_modvars_rules.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_timing/piq_timing_max_modvars_rules.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: f4f0175117ab6854e27b11a5d33eddf46676748c98e30ca7e04f86737a78d64a

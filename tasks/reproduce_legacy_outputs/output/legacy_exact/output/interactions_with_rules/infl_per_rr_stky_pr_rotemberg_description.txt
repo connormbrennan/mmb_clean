@@ -1,0 +1,5 @@
+Artifact: infl_per_rr_stky_pr_rotemberg.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/infl_per_rr_stky_pr_rotemberg.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: f617d656872fae6520768b529dc905c20c40f766ae0bbca39a498945f295fb13

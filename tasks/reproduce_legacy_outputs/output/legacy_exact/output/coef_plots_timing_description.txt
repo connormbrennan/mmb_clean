@@ -1,0 +1,5 @@
+Artifact: coef_plots_timing.zip
+Copied from: legacy/mmb_upgraded/output/coef_plots_timing.zip
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 620e0ca877612ac2385b8c3491124d2e6ccd48717d63b420b7ff799ffe5eb778

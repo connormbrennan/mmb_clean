@@ -1,0 +1,5 @@
+Artifact: Growth Other.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Growth Other.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 6bd9395a16dd6c160aad1f8a018271a780a751756bfdd84c1002dc84f2c1757f

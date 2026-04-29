@@ -1,0 +1,5 @@
+Artifact: rrate_Calibrated Models under Inertial Taylor Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Calibrated Models under Inertial Taylor Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 61811017c03cea75a153ddae6a4cd50e71dd74eeeb1d15b31dde0808e3324e6c

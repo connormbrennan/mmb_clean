@@ -1,0 +1,5 @@
+Artifact: rrate_Calibrated_Taylor.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/rrate_Calibrated_Taylor.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 1d0c6084aede55648e07719d35857385b8fef800396cce80ced5cac88d82f63a

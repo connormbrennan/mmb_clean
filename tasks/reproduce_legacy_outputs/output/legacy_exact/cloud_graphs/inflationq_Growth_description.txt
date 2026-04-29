@@ -1,0 +1,5 @@
+Artifact: inflationq_Growth.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/inflationq_Growth.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: da603e36eff758ca8d73b436a1315e9306f95fdd0f70e0ccce4614de8c4a34d0

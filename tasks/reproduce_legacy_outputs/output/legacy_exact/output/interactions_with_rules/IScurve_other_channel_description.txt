@@ -1,0 +1,5 @@
+Artifact: IScurve_other_channel.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/IScurve_other_channel.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: b8532a60f0f3f4551546514f990fee510d1f1ca1cb3047aedad3f1f80e8a44f0

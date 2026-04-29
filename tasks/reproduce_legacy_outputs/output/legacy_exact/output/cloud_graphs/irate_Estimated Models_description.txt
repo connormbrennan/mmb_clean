@@ -1,0 +1,5 @@
+Artifact: irate_Estimated Models.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Estimated Models.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 1749e3dbc43d3ecd28f0e347e61ab5ebdab16e7966655991a0ba0d4d780c25d1

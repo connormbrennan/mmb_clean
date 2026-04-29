@@ -1,0 +1,5 @@
+Artifact: interest_Estimated_Model.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/interest_Estimated_Model.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 86d8f51d373b2738a80275eacc894b53e8e0be79d30780e1b00ffb74915392c9

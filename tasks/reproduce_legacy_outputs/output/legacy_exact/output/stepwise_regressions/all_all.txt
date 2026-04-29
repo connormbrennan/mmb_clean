@@ -1,0 +1,51 @@
+\begin{table}[h!]
+\centering
+\resizebox{0.95\textwidth}{!}{%
+\setlength{\tabcolsep}{8pt}%
+\begin{tabular}{lccc}
+\hline
+\textbf{Variable} & \multicolumn{1}{c}{\textbf{IS Curve}} & \multicolumn{1}{c}{\textbf{Pi Curve}} & \multicolumn{1}{c}{\textbf{Sacrifice Ratio}} \\
+\hline
+\textbf{Horizon} & 20 & 20 & 20 \\
+\hline
+Constant & -0.614*** & -0.289*** & 12.168*** \\
+ & (0.125) & (0.072) & (2.477) \\
+Central Bank Author $\times$ Late Vintage & -0.545*** &  &  \\
+ & (0.130) &  &  \\
+Estimated & 0.204** & 0.109* & -0.085 \\
+ & (0.095) & (0.063) & (0.834) \\
+$\log(\text{Num. of Eqs.})$ &  &  & -2.076*** \\
+ &  &  & (0.571) \\
+$\log($Num. of Eqs.$)$ $\times$ Late Vintage & 0.214*** &  &  \\
+ & (0.044) &  &  \\
+Net Worth Channel &  & 0.120** & 2.180*** \\
+ &  & (0.051) & (0.798) \\
+Net Worth $\times$ Bank Credit & -0.782*** &  &  \\
+ & (0.107) &  &  \\
+Net Worth $\times$ Learning &  & -0.612*** & -5.395** \\
+ &  & (0.146) & (2.720) \\
+Open Economy &  &  & 3.864*** \\
+ &  &  & (1.276) \\
+Price Idx &  &  & -1.905** \\
+ &  &  & (0.890) \\
+Rule: Growth & -0.591*** & -0.358*** & 2.954*** \\
+ & (0.107) & (0.050) & (0.807) \\
+Rule: Inert. Taylor & -0.379*** & -0.143*** & 1.407* \\
+ & (0.107) & (0.050) & (0.807) \\
+Sticky Prices $\times$ Not Wage Idx. &  &  & -4.350*** \\
+ &  &  & (1.151) \\
+Sticky Wages & 0.296*** & 0.179*** &  \\
+ & (0.095) & (0.045) &  \\
+Mid Vintage $\times$ Early Data &  & -0.106** &  \\
+ &  & (0.052) &  \\
+Wealth Channel & -0.498*** &  &  \\
+ & (0.104) &  &  \\
+\hline
+Observations & 217 & 144 & 192 \\
+$R^2$ from Final Weights & 0.421 & 0.407 & 0.210 \\
+\hline
+\end{tabular}
+}% end resizebox
+\caption{Stepwise RLM results (all models)}
+\end{table}
+\newpage

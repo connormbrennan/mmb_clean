@@ -1,0 +1,39 @@
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{y\_timing\_max}&\multicolumn{1}{c}{piq\_timing\_max}\\
+\midrule
+main                &                     &                     \\
+Growth Rule         &       0.518\sym{***}&       0.202         \\
+                    &     (0.160)         &     (0.123)         \\
+\addlinespace
+Inertial Taylor Rule&       0.323\sym{**} &       0.046         \\
+                    &     (0.126)         &     (0.116)         \\
+\addlinespace
+Estimated           &       0.747\sym{***}&       0.808\sym{***}\\
+                    &     (0.094)         &     (0.095)         \\
+\addlinespace
+Central Bank Author &       0.594\sym{***}&       0.591\sym{***}\\
+                    &     (0.098)         &     (0.091)         \\
+\addlinespace
+Net Worth Effect    &      -0.301\sym{*}  &      -0.533\sym{***}\\
+                    &     (0.158)         &     (0.155)         \\
+\addlinespace
+Open                &       0.307\sym{**} &       0.359\sym{**} \\
+                    &     (0.133)         &     (0.177)         \\
+\addlinespace
+ln(Num. of Eq.)     &                     &      -0.109         \\
+                    &                     &     (0.073)         \\
+\addlinespace
+Bank Credit Effect  &                     &       0.630\sym{***}\\
+                    &                     &     (0.188)         \\
+\addlinespace
+Early Vintage       &                     &       0.876\sym{***}\\
+                    &                     &     (0.219)         \\
+\addlinespace
+Mid Vintage         &                     &       0.404\sym{***}\\
+                    &                     &     (0.131)         \\
+\addlinespace
+Constant            &      -0.426\sym{***}&      -0.149         \\
+                    &     (0.113)         &     (0.205)         \\
+\midrule
+Observations        &     217.000         &     217.000         \\
+Pseudo $R^2$        &       0.132         &           .         \\

@@ -1,0 +1,7 @@
+Figure: rrate_calibrated_inertial_taylor.pdf
+Shows: Real Interest Rate impulse responses across MMB model-rule pairs.
+Horizontal axis: quarters after a 100 basis point monetary policy shock.
+Vertical axis: response of rrate in model units used by the MMB exports.
+Data source: tasks/build_mmb_analysis_dataset/output/MMB_IRF_format_full.dta.
+Subset: Calibrated Models under Inertial Taylor Rule.
+Key takeaways: thin orange lines are calibrated models, thin green lines are estimated models, the red dashed line is the cross-model median, and the blue dashed line highlights Smets-Wouters (2007) under the inertial Taylor rule.

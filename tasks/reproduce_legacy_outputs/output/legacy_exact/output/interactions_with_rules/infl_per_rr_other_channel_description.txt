@@ -1,0 +1,5 @@
+Artifact: infl_per_rr_other_channel.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/infl_per_rr_other_channel.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: dcaa54c5d132e01f29522bcdbdbbf7f11295942e1f14cd6363eefa29f3806e24

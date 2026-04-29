@@ -1,0 +1,5 @@
+Artifact: US_PM08.pdf
+Copied from: legacy/mmb_upgraded/outlier_charts/charts/US_PM08.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: a9ea008e4ea91ea98f5bd848c8406e2b2cac82f64c51f2f33b9eff63a1164a26

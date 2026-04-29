@@ -1,0 +1,5 @@
+Artifact: piq_timing_max_nomrig.pdf
+Copied from: legacy/mmb_upgraded/output/stepwise_regressions/piq_timing_max_nomrig.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 695df26a1648550d1433fc8234acde9a15e1843571ede08eba9e7169c64a412f

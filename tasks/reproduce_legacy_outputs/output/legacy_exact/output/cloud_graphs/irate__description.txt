@@ -1,0 +1,5 @@
+Artifact: irate_.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 24f955f32c3e3067f7478a629c3a9d1648fe7dfbba8aea45b4edae2d2f473cf3

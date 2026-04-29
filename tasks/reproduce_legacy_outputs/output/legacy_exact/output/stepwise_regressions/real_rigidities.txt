@@ -1,0 +1,37 @@
+\begin{table}[h!]
+\centering
+\resizebox{0.95\textwidth}{!}{%
+\setlength{\tabcolsep}{8pt}%
+\begin{tabular}{lccc}
+\hline
+\textbf{Variable} & \multicolumn{1}{c}{\textbf{IS Curve}} & \multicolumn{1}{c}{\textbf{Pi Curve}} & \multicolumn{1}{c}{\textbf{Sacrifice Ratio}} \\
+\hline
+\textbf{Horizon} & 20 & 20 & 20 \\
+\hline
+Constant & -0.348*** & -0.153*** & 1.509* \\
+ & (0.103) & (0.047) & (0.811) \\
+Estimated & 0.216** & 0.142*** & 1.647** \\
+ & (0.093) & (0.043) & (0.746) \\
+Net Worth Channel &  & 0.124*** & 1.792** \\
+ &  & (0.048) & (0.789) \\
+Net Worth $\times$ Bank Credit & -0.698*** &  &  \\
+ & (0.109) &  &  \\
+Rule: Growth & -0.570*** & -0.493*** & 3.016*** \\
+ & (0.110) & (0.052) & (0.872) \\
+Rule: Inert. Taylor & -0.347*** & -0.177*** & 1.485* \\
+ & (0.110) & (0.052) & (0.872) \\
+Wealth $\times$ Bank Credit & -0.351** & -0.201*** &  \\
+ & (0.155) & (0.066) &  \\
+Wealth $\times$ Net Worth & -0.460* &  &  \\
+ & (0.236) &  &  \\
+Wealth $\times$ Open Economy & -0.380* &  & 5.006** \\
+ & (0.227) &  & (2.104) \\
+\hline
+Observations & 217 & 217 & 192 \\
+$R^2$ from Final Weights & 0.340 & 0.364 & 0.103 \\
+\hline
+\end{tabular}
+}% end resizebox
+\caption{Stepwise RLM results (all models)}
+\end{table}
+\newpage

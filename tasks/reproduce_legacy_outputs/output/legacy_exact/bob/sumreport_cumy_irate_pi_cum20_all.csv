@@ -1,0 +1,48 @@
+, RLS regressions, (w/o c orrule dummmies)., (Rule: all)
+,,,
+y_cum{x} on pi_cum{j} and irate_cum{k},,,
+pi_cum{j} ~ 1.15 for all j. ,,,
+,,,
+ LHS vars (rows):,, RHS regressors (columns): ,
+,irate_cum20,irate_cum40,irate_cum60
+y_cum20,-0.2303,-0.2495,-0.2558
+ std err,0.0276,0.0267,0.0251
+ t-stat,-8.3491,-9.3459,-10.1998
+ p-value,0,0,0
+ r^2,0.1623,0.1701,0.1771
+ rbar^2,0.1589,0.1667,0.1738
+,,,
+y_cum40,-0.2593,-0.2687,-0.2738
+ std err,0.0309,0.0291,0.0279
+ t-stat,-8.3777,-9.2314,-9.8007
+ p-value,0,0,0
+ r^2,0.1379,0.1454,0.1502
+ rbar^2,0.1344,0.142,0.1468
+,,,
+y_cum60,-0.2646,-0.2708,-0.2758
+ std err,0.0311,0.0291,0.028
+ t-stat,-8.5083,-9.3175,-9.8432
+ p-value,0,0,0
+ r^2,0.1227,0.1287,0.1318
+ rbar^2,0.1192,0.1252,0.1283
+,,,
+pi_cum20,0,0,0
+ std err,0,0,0
+ t-stat,0,0,0
+ p-value,0,0,0
+ r^2,0,0,0
+ rbar^2,0,0,0
+,,,
+pi_cum40,0,0,0
+ std err,0,0,0
+ t-stat,0,0,0
+ p-value,0,0,0
+ r^2,0,0,0
+ rbar^2,0,0,0
+,,,
+pi_cum60,0,0,0
+ std err,0,0,0
+ t-stat,0,0,0
+ p-value,0,0,0
+ r^2,0,0,0
+ rbar^2,0,0,0

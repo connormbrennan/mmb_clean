@@ -1,0 +1,21 @@
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{y\_timing\_max}&\multicolumn{1}{c}{piq\_timing\_max}\\
+\midrule
+main                &                     &                     \\
+Growth Rule         &       0.516\sym{***}&       0.207         \\
+                    &     (0.168)         &     (0.175)         \\
+\addlinespace
+Inertial Taylor Rule&       0.320\sym{**} &       0.048         \\
+                    &     (0.136)         &     (0.166)         \\
+\addlinespace
+Estimated           &       0.724\sym{***}&       1.020\sym{***}\\
+                    &     (0.103)         &     (0.154)         \\
+\addlinespace
+Sticky Wages=1 $\times$ Price Indexation=1&                     &      -0.195         \\
+                    &                     &     (0.242)         \\
+\addlinespace
+Constant            &       0.022         &       0.155         \\
+                    &     (0.126)         &     (0.147)         \\
+\midrule
+Observations        &     217.000         &     217.000         \\
+Pseudo $R^2$        &       0.089         &           .         \\

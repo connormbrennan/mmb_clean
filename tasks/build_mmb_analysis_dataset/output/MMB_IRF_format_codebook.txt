@@ -1,0 +1,36 @@
+MMB_IRF_format codebook
+=======================
+
+Rows: 21978
+Columns: 9
+Source: MMB response CSVs imported through tasks/import_mmb_legacy_data
+Filters and transformations: Dropped duplicate, non-US calibrated, and excluded models listed in config/params.yaml; dropped model-rule responses; sign-flipped responses; period zero removed.
+Period coverage: 1 to 99
+Models: 75
+Rules: Growth, Inertial_Taylor, Taylor
+
+Columns and dtypes
+------------------
+id: int64
+period: int64
+model: object
+rule: object
+piq: float64
+y: float64
+irate: float64
+rrate: float64
+pi: float64
+
+First 10 rows
+-------------
+ id  period      model   rule      piq        y     irate     rrate       pi
+  1       1 G2_SIGMA08 Growth 0.107317 0.164931 -0.969323 -1.145733 0.026829
+  1       2 G2_SIGMA08 Growth 0.176410 0.223661 -0.672435 -0.873348 0.070932
+  1       3 G2_SIGMA08 Growth 0.200913 0.223788 -0.430918 -0.621122 0.121160
+  1       4 G2_SIGMA08 Growth 0.190204 0.195972 -0.235425 -0.394057 0.168711
+  1       5 G2_SIGMA08 Growth 0.158632 0.158585 -0.109285 -0.228717 0.181540
+  1       6 G2_SIGMA08 Growth 0.119432 0.120995 -0.032061 -0.114231 0.167295
+  1       7 G2_SIGMA08 Growth 0.082170 0.087516  0.010524 -0.041734 0.137610
+  1       8 G2_SIGMA08 Growth 0.052258 0.059659  0.029525 -0.002035 0.103123
+  1       9 G2_SIGMA08 Growth 0.031559 0.037410  0.033755  0.014316 0.071355
+  1      10 G2_SIGMA08 Growth 0.019438 0.019990  0.030074  0.016204 0.046356

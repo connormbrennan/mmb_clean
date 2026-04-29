@@ -1,0 +1,5 @@
+Artifact: general_c.png
+Copied from: legacy/mmb_upgraded/bob/graphs/general_c.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: c031a9cc1b68db76b6c0dda71c5827a77d9346a9f44395fa417d3d3ce0f11b6a

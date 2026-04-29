@@ -1,0 +1,5 @@
+Artifact: y_Growth.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/y_Growth.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 8f2f7f99983635fadc07b65ca127004199717a524a3e4c2222da7898369bee64

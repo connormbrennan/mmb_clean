@@ -1,0 +1,5 @@
+Artifact: piq_Taylor Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Taylor Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 201d1371aad0acbfe289c1afc6e1eed2933f49dd3e6d887b61b300154ee005e4

@@ -1,0 +1,5 @@
+Artifact: coef_plots_outcomes.zip
+Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes.zip
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 3d8dc5903d7ef6631935b8504ec3fe099dd90890cb19f3228ee7637cbfeca8dc

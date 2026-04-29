@@ -1,0 +1,5 @@
+Artifact: piq_timing_max_nonmodvars_ofinterest.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_timing/piq_timing_max_nonmodvars_ofinterest.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 2abd58a91cf2293b431d015c615d8adf0ce4b20b3fe9430430d6a6346510e63e

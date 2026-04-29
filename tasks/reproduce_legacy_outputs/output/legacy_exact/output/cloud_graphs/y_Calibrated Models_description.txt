@@ -1,0 +1,5 @@
+Artifact: y_Calibrated Models.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Calibrated Models.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 7a9e417a263d63bf8c4df6594fbcce6191e20e65cd6d4a16202e669ba763584a

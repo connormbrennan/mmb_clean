@@ -1,0 +1,5 @@
+Artifact: rrate_Growth Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Growth Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: d208d0969bd952fa7df6fe8dff126f11c0a377a3afe465558a589c74613b1e16

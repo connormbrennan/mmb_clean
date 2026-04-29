@@ -1,0 +1,5 @@
+Artifact: outputgap_Calibrated_Growth.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/outputgap_Calibrated_Growth.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 6d56b9aeae971af206c87276c42328f06586236b26587def132b61d7bc02fd99

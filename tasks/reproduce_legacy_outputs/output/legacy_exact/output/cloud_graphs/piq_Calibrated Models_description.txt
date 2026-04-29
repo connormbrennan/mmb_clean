@@ -1,0 +1,5 @@
+Artifact: piq_Calibrated Models.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Calibrated Models.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: c5955538a429f5025beb66d446af41587ffef9d8ee4aafc9f9da2366ecd7a9e1

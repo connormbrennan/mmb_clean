@@ -1,0 +1,5 @@
+Artifact: infl_per_rr_bnkcrdit.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/infl_per_rr_bnkcrdit.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: cfaf7520198736886dab317218de4110eb05d7a71274dcbf601e3adc5e769b15

@@ -1,0 +1,5 @@
+Artifact: ipr40_modvars_ofinterest.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/ipr40_modvars_ofinterest.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 747d2a266551423410ccfb341a6951f370f0ae18676488f638ba6517fe0ceb9c

@@ -1,0 +1,5 @@
+Artifact: stky_wg_ndx.png
+Copied from: legacy/mmb_upgraded/bob/graphs/stky_wg_ndx.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 5c118e249cb41aa3758b7741e21f15222c19bc57f6d9240b77bbf5c636efe546

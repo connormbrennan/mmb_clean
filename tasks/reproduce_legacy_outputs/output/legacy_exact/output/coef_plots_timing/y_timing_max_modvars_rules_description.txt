@@ -1,0 +1,5 @@
+Artifact: y_timing_max_modvars_rules.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_timing/y_timing_max_modvars_rules.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 98f1f0cf201696d7caf6444bc5983a1d5db590574ca83efd2618c41b31bcbdd8

@@ -1,0 +1,5 @@
+Artifact: NK_ET14.pdf
+Copied from: legacy/mmb_upgraded/outlier_charts/charts/NK_ET14.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 423446e4a40f776cb6df2aa31664696043be3d44fa62d4672cd29487e1cbccde

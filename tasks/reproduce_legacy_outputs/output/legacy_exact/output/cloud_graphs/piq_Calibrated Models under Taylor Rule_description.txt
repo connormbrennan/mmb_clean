@@ -1,0 +1,5 @@
+Artifact: piq_Calibrated Models under Taylor Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Calibrated Models under Taylor Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: aedde1e380ae98cbc077648219fdf3df2fa96e671842f4818c5eb4af29f75798

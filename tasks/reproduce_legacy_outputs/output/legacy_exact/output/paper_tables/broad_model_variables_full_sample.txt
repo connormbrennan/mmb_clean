@@ -1,0 +1,56 @@
+\begin{table}[H]
+\centering
+\caption{\underline{Relationship with a range of model variables (full sample)}}
+\small
+\begin{tabular}{l c c c c c}
+\toprule
+ & \textit{y-slope} & \textit{pi-slope} & \textit{sacratio} & \textit{y-timing} & \textit{pi-timing} \\
+\midrule
+Sticky wage*index & 0.21 & 0.22^{***} & 3.40^{***} & 0.12 & 0.08 \\
+ & (0.15) & (0.07) & (1.25) & (0.15) & (0.13) \\
+\addlinespace[0.4em]
+Sticky wage*(1-index) & 0.41^{***} & 0.07 & -0.13 & -0.00 & 0.16 \\
+ & (0.13) & (0.06) & (1.02) & (0.13) & (0.12) \\
+\addlinespace[0.4em]
+Price indexation & 0.14 & -0.10 & -1.76^{*} & 0.01 & 0.21^{*} \\
+ & (0.12) & (0.06) & (1.02) & (0.12) & (0.11) \\
+\addlinespace[0.4em]
+Wealth & -0.44^{***} & -0.12 & -0.66 & -0.03 & -0.18 \\
+ & (0.16) & (0.08) & (1.25) & (0.17) & (0.15) \\
+\addlinespace[0.4em]
+Net worth & 0.07 & 0.15 & 1.46 & -0.16 & -0.48 \\
+ & (0.33) & (0.16) & (2.57) & (0.33) & (0.32) \\
+\addlinespace[0.4em]
+Wealth*bank credit & -0.03 & -0.08 & 0.06 & 0.13 & 0.07 \\
+ & (0.21) & (0.10) & (1.63) & (0.22) & (0.20) \\
+\addlinespace[0.4em]
+Bank credit*net worth & -0.85^{***} & -0.12 & 0.16 & 0.28 & 0.55^{*} \\
+ & (0.32) & (0.16) & (2.44) & (0.32) & (0.31) \\
+\addlinespace[0.4em]
+Net worth*wealth & -0.17 & -0.03 & 0.86 & -0.39 & -0.07 \\
+ & (0.28) & (0.14) & (2.44) & (0.29) & (0.27) \\
+\addlinespace[0.4em]
+Wealth*open economy & 0.22 & 0.05 & 6.20^{**} & 0.34 & 0.34 \\
+ & (0.28) & (0.14) & (2.48) & (0.29) & (0.26) \\
+\addlinespace[0.4em]
+Central bank authors & -0.31 & -0.19^{**} & 0.99 & 0.71^{***} & 1.01^{***} \\
+ & (0.20) & (0.10) & (1.54) & (0.21) & (0.18) \\
+\addlinespace[0.4em]
+Middle vintage & -0.04 & -0.07 & -1.62 & -0.22 & -0.53^{***} \\
+ & (0.21) & (0.10) & (1.65) & (0.20) & (0.18) \\
+\addlinespace[0.4em]
+Late vintage & 0.33 & -0.10 & -1.31 & -0.03 & -0.58^{**} \\
+ & (0.26) & (0.13) & (2.03) & (0.27) & (0.24) \\
+\addlinespace[0.4em]
+Central bank authors*late vintage & -0.12 & 0.21^{*} & -2.13 & -0.24 & -0.71^{***} \\
+ & (0.24) & (0.12) & (1.83) & (0.25) & (0.22) \\
+\addlinespace[0.4em]
+\midrule
+$R^{2}$ & 0.25 & 0.24 & 0.09 & 0.25 & 0.39 \\
+$\bar{R}^{2}$ & 0.19 & 0.18 & 0.01 & 0.19 & 0.34 \\
+$R_{w}^{2}$ & 0.44 & 0.41 & 0.20 & -- & -- \\
+S.E.E. & 1.86 & 1.49 & 48.63 & 2.04 & 2.67 \\
+$N$ & 217 & 217 & 192 & 217 & 217 \\
+\bottomrule
+\end{tabular}
+\end{table}

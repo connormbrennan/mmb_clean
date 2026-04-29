@@ -1,0 +1,5 @@
+Artifact: Billsacrat_stky_pr_calvo.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/Billsacrat_stky_pr_calvo.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 9e10390a0131ce7c9228bd907727c1b05f8a3b17f0cd3d94311e21ea83fcb011

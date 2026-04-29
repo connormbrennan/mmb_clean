@@ -1,0 +1,5 @@
+Artifact: piq_Estimated Models under Inertial Taylor Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Estimated Models under Inertial Taylor Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 58fabfa1837032f679badce3d388a8b66ad603239033163836b806537e6464be

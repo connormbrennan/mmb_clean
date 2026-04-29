@@ -1,0 +1,5 @@
+Artifact: sac40_modvars_ofinterest.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/sac40_modvars_ofinterest.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 23ed86e5a802e054baf1e21bccbdb28291191c37544943f4e9f95084186ecf40

@@ -1,0 +1,5 @@
+Artifact: y_timing_max_nonmod.pdf
+Copied from: legacy/mmb_upgraded/output/stepwise_regressions/y_timing_max_nonmod.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: df10eb880f3728fa46551017891af203c8ef961ab770d94855340c19c7b3f72b

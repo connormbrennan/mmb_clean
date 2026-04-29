@@ -1,0 +1,5 @@
+Artifact: sacratio_stky_pr.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/sacratio_stky_pr.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: d9c0c40605766d508ba7976accc98d679221d3e528af576e44a677fc215390b4

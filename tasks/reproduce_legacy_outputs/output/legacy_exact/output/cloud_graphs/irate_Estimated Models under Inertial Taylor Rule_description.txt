@@ -1,0 +1,5 @@
+Artifact: irate_Estimated Models under Inertial Taylor Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Estimated Models under Inertial Taylor Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 06587b5653a5f028cdf206cc428832f8cc380f7abb0206fc29e8f7b193d608b3

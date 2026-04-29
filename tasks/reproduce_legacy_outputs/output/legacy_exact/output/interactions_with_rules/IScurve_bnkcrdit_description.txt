@@ -1,0 +1,5 @@
+Artifact: IScurve_bnkcrdit.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/IScurve_bnkcrdit.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 2c347868f90bb34e8568bf06c815755853a8f9390fd9bb2b9a06f9eef199d21c

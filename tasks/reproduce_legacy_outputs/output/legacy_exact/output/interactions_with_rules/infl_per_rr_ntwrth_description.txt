@@ -1,0 +1,5 @@
+Artifact: infl_per_rr_ntwrth.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/infl_per_rr_ntwrth.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: f7a1139d28d6ee567755763c8299b55ffdbddb7ad4ce7625ac7c2a43559d105b

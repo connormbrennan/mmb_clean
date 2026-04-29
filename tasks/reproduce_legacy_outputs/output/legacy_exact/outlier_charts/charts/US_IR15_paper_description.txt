@@ -1,0 +1,5 @@
+Artifact: US_IR15_paper.PNG
+Copied from: legacy/mmb_upgraded/outlier_charts/charts/US_IR15_paper.PNG
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: b7974d918f187521ca07395bab168418ba68fb0d2e1d7e3ba307055937c2271b

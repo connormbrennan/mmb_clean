@@ -1,0 +1,5 @@
+Artifact: cb_authors_ext.png
+Copied from: legacy/mmb_upgraded/bob/graphs_ols/cb_authors_ext.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: c30007f83c94104670237cf610fd492796048b0afd3933cb9583a1fa91ff0793

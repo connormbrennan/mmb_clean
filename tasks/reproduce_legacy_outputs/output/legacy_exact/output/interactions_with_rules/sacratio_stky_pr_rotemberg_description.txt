@@ -1,0 +1,5 @@
+Artifact: sacratio_stky_pr_rotemberg.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/sacratio_stky_pr_rotemberg.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 5f7b3c9f9d3edf62e9581eeb86832825b682f753ecd4ea10e68d2f4ca1a0e8da

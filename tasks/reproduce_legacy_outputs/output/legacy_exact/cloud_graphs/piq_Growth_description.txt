@@ -1,0 +1,5 @@
+Artifact: piq_Growth.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/piq_Growth.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 7883c5cbae2fbbddf751d28d142e88376486d0578d095adfaf744fdd34224508

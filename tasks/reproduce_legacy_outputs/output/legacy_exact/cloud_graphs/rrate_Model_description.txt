@@ -1,0 +1,5 @@
+Artifact: rrate_Model.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/rrate_Model.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 93883db5f92017afcf9bb0969c5566f61689952bffe9998beded99f73c3fb824

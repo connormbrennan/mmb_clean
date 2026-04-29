@@ -1,0 +1,5 @@
+Artifact: IScurve_stky_pr_calvo.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/IScurve_stky_pr_calvo.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: c6107b589d70a3c93fa80a46757058c6bd6d8a6125d34111dbf3cd471dca7d97

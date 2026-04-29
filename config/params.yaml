@@ -1,0 +1,39 @@
+project_name: "mmb_clean"
+default_language: "python"
+
+mmb:
+  qforgive: 4
+  horizons: [20, 40, 60]
+  drop_model_rule: 1
+  pi_in_sacratio: 0
+  time_limit: 60
+  cloud_graph_extent: 20
+  random_seed: 42
+  duplicate_models_to_drop:
+    - "US_ACELswt"
+    - "US_CMR10fa"
+    - "US_CMR14noFA"
+    - "US_MI07"
+    - "US_PM08"
+    - "US_VI16bgg"
+    - "US_VMDop"
+    - "US_YR13"
+    - "NK_GK09lin"
+  excluded_models_to_drop:
+    - "NK_CKL09"
+    - "NK_GM05"
+    - "NK_GM16"
+    - "NK_GS14"
+    - "NK_JO15_ht"
+    - "NK_CGG99"
+    - "US_IR15"
+    - "RBC_DTT11"
+  sacrifice_ratio_models_to_drop:
+    - "NK_CKL09"
+    - "NK_GM05"
+    - "NK_GS14"
+    - "NK_JO15_ht"
+    - "NK_CGG99"
+    - "US_IR15"
+  output_response_labels:
+    - "Output Gap"

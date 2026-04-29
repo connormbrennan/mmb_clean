@@ -1,0 +1,5 @@
+Artifact: interaction_terms_coefplots.zip
+Copied from: legacy/mmb_upgraded/bob/interaction_terms_coefplots.zip
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 172607146fb65b55033f7b7d13f6f1cca98d7e045fd77011471a80ec1f596a3f

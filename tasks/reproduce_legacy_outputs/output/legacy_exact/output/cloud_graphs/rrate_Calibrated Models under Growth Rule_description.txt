@@ -1,0 +1,5 @@
+Artifact: rrate_Calibrated Models under Growth Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Calibrated Models under Growth Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 95b91190d53af7f1aa77fa9643768cd783160a6e3cfab78db1fa846afb753c00

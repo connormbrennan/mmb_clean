@@ -1,0 +1,30 @@
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}\\
+                    &\multicolumn{1}{c}{y\_timing\_max}&\multicolumn{1}{c}{piq\_timing\_max}\\
+\midrule
+main                &                     &                     \\
+Growth Rule         &       0.516\sym{***}&       0.194         \\
+                    &     (0.161)         &     (0.127)         \\
+\addlinespace
+Inertial Taylor Rule&       0.320\sym{**} &       0.039         \\
+                    &     (0.129)         &     (0.120)         \\
+\addlinespace
+Estimated           &       0.744\sym{***}&       0.746\sym{***}\\
+                    &     (0.100)         &     (0.092)         \\
+\addlinespace
+Central Bank Author &       0.612\sym{***}&       0.615\sym{***}\\
+                    &     (0.098)         &     (0.086)         \\
+\addlinespace
+ln(Num. of Eq.)     &                     &      -0.058         \\
+                    &                     &     (0.069)         \\
+\addlinespace
+Early Vintage       &                     &       0.950\sym{***}\\
+                    &                     &     (0.225)         \\
+\addlinespace
+Mid Vintage         &                     &       0.497\sym{***}\\
+                    &                     &     (0.115)         \\
+\addlinespace
+Constant            &      -0.461\sym{***}&      -0.253         \\
+                    &     (0.143)         &     (0.209)         \\
+\midrule
+Observations        &     217.000         &     217.000         \\
+Pseudo $R^2$        &       0.126         &           .         \\

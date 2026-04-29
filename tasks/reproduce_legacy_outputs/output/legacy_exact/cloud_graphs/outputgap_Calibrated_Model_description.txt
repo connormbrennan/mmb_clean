@@ -1,0 +1,5 @@
+Artifact: outputgap_Calibrated_Model.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/outputgap_Calibrated_Model.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 13bcb5746570a9ad028a136cb7a9d038ef2a427e654694d581d2b17ec57ce2e6

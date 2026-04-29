@@ -1,0 +1,5 @@
+Artifact: IScurve_wlth.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/IScurve_wlth.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: d904a6bd49fe0dc311ac910c2b3a0be22b2841cf52ec18e71bc390d758975a6c

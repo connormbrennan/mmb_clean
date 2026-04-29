@@ -1,0 +1,104 @@
+\begin{table}[h!]
+\centering
+\resizebox{0.9\textwidth}{!}{%
+\begin{tabular}{lcc}
+\hline
+\multicolumn{3}{l}{\textbf{Dependent Variable: IS Curve}} \\
+\hline
+\textbf{{Horizon}} & 20 & 40 \\
+\hline
+\multirow{2}{*}{Constant} & -0.166*** & -0.172*** \\
+ & (0.061) & (0.061) \\
+\multirow{2}{*}{Net Worth Channel} & -0.840*** & -1.197*** \\
+ & (0.075) & (0.075) \\
+\multirow{2}{*}{Rule: Growth} & -0.445*** & -0.408*** \\
+ & (0.080) & (0.081) \\
+\multirow{2}{*}{Rule: Inert. Taylor} & -0.296*** & -0.265*** \\
+ & (0.080) & (0.081) \\
+\multirow{2}{*}{Sticky Price (Other) $\times$ Price Idx.} & -0.368* & -0.390* \\
+ & (0.202) & (0.204) \\
+\multirow{2}{*}{Sticky Price (Rotemberg) $\times$ Price Idx.} & 1.218*** & 1.767*** \\
+ & (0.288) & (0.290) \\
+\hline
+Observations & 222 & 222 \\
+$R^2$ from Final Weights& 0.497 & 0.635 \\
+\hline
+\end{tabular}
+}
+\caption{Stepwise RLM results for IS Curve}
+\end{table}
+\newpage
+
+\begin{table}[h!]
+\centering
+\resizebox{0.9\textwidth}{!}{%
+\begin{tabular}{lcc}
+\hline
+\multicolumn{3}{l}{\textbf{Dependent Variable: Pi Curve}} \\
+\hline
+\textbf{{Horizon}} & 20 & 40 \\
+\hline
+\multirow{2}{*}{Constant} & -0.042 & -0.109*** \\
+ & (0.031) & (0.029) \\
+\multirow{2}{*}{Net Worth Channel} & 0.094*** & 0.131*** \\
+ & (0.032) & (0.035) \\
+\multirow{2}{*}{Rule: Growth} & -0.360*** & -0.354*** \\
+ & (0.033) & (0.037) \\
+\multirow{2}{*}{Rule: Inert. Taylor} & -0.174*** & -0.156*** \\
+ & (0.034) & (0.037) \\
+\multirow{2}{*}{Sticky Price (Other) $\times$ Price Idx.} & -0.400*** & -0.251*** \\
+ & (0.086) & (0.094) \\
+\multirow{2}{*}{Sticky Prices (Rotemberg)} & -0.075* &  \\
+ & (0.041) &  \\
+\multirow{2}{*}{Wage Idx.} & 0.061** & 0.112*** \\
+ & (0.031) & (0.033) \\
+\multirow{2}{*}{Wealth Channel} & -0.073** &  \\
+ & (0.032) &  \\
+\hline
+Observations & 222 & 222 \\
+$R^2$ from Final Weights& 0.522 & 0.451 \\
+\hline
+\end{tabular}
+}
+\caption{Stepwise RLM results for Pi Curve}
+\end{table}
+\newpage
+
+\begin{table}[h!]
+\centering
+\resizebox{0.9\textwidth}{!}{%
+\begin{tabular}{lcc}
+\hline
+\multicolumn{3}{l}{\textbf{Dependent Variable: Sacrifice Ratio}} \\
+\hline
+\textbf{{Horizon}} & 20 & 40 \\
+\hline
+\multirow{2}{*}{Constant} & 5.355*** & 6.610*** \\
+ & (0.659) & (1.086) \\
+\multirow{2}{*}{Bank Credit Channel} &  & -2.158** \\
+ &  & (1.100) \\
+\multirow{2}{*}{Net Worth Channel} &  & 3.842*** \\
+ &  & (1.263) \\
+\multirow{2}{*}{Rule: Growth} & 3.076*** & 3.247*** \\
+ & (0.676) & (1.038) \\
+\multirow{2}{*}{Rule: Inert. Taylor} & 1.643** & 1.601 \\
+ & (0.676) & (1.038) \\
+\multirow{2}{*}{Sticky Price (Calvo) $\times$ Price Idx.} & -4.040*** & -4.668*** \\
+ & (0.822) & (1.244) \\
+\multirow{2}{*}{Sticky Prices (Rotemberg)} & -5.475*** & -6.921*** \\
+ & (0.913) & (1.361) \\
+\multirow{2}{*}{Sticky Price (Rotemberg) $\times$ Price Idx.} & 357.883*** &  \\
+ & (2.494) &  \\
+\multirow{2}{*}{Wage Idx.} & 2.612*** & 3.262*** \\
+ & (0.826) & (1.243) \\
+\multirow{2}{*}{Wealth Channel} & -2.226*** & -3.233*** \\
+ & (0.644) & (1.005) \\
+\hline
+Observations & 197 & 197 \\
+$R^2$ from Final Weights& 0.987 & 0.297 \\
+\hline
+\end{tabular}
+}
+\caption{Stepwise RLM results for Sacrifice Ratio}
+\end{table}
+\newpage

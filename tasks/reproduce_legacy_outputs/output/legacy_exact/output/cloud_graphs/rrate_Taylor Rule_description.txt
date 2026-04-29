@@ -1,0 +1,5 @@
+Artifact: rrate_Taylor Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Taylor Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: c08eaee3adbc1c7ff9e57e34e64af1e9a61089ce768ee3394e0e6b2a187ae727

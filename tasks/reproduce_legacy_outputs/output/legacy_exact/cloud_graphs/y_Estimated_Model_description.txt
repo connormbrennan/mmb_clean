@@ -1,0 +1,5 @@
+Artifact: y_Estimated_Model.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/y_Estimated_Model.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 340d988cf895765acbe6753144c053f5a6d97c16296e97579aa30fb00abe58ee

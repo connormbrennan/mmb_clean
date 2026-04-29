@@ -1,0 +1,88 @@
+\begin{table}[h!]
+\centering
+\resizebox{0.9\textwidth}{!}{%
+\begin{tabular}{lcc}
+\hline
+\multicolumn{3}{l}{\textbf{Dependent Variable: IS Curve}} \\
+\hline
+\textbf{{Horizon}} & 20 & 40 \\
+\hline
+\multirow{2}{*}{Constant} & -0.346*** & -0.426*** \\
+ & (0.120) & (0.145) \\
+\multirow{2}{*}{Central Bank Author} & -0.245** & -0.268** \\
+ & (0.100) & (0.121) \\
+\multirow{2}{*}{Estimated} & 0.188** & 0.299*** \\
+ & (0.091) & (0.111) \\
+\multirow{2}{*}{Rule: Growth} & -0.422*** & -0.443*** \\
+ & (0.110) & (0.133) \\
+\multirow{2}{*}{Rule: Inert. Taylor} & -0.284** & -0.300** \\
+ & (0.110) & (0.134) \\
+\multirow{2}{*}{Early Vintage} &  & -0.387* \\
+ &  & (0.200) \\
+\hline
+Observations & 222 & 222 \\
+$R^2$ from Final Weights& 0.123 & 0.133 \\
+\hline
+\end{tabular}
+}
+\caption{Stepwise RLM results for IS Curve}
+\end{table}
+\newpage
+
+\begin{table}[h!]
+\centering
+\resizebox{0.9\textwidth}{!}{%
+\begin{tabular}{lcc}
+\hline
+\multicolumn{3}{l}{\textbf{Dependent Variable: Pi Curve}} \\
+\hline
+\textbf{{Horizon}} & 20 & 40 \\
+\hline
+\multirow{2}{*}{Constant} & -0.161*** & -0.204*** \\
+ & (0.042) & (0.043) \\
+\multirow{2}{*}{Estimated} & 0.109*** & 0.144*** \\
+ & (0.031) & (0.032) \\
+\multirow{2}{*}{Rule: Growth} & -0.378*** & -0.353*** \\
+ & (0.037) & (0.038) \\
+\multirow{2}{*}{Rule: Inert. Taylor} & -0.173*** & -0.152*** \\
+ & (0.038) & (0.038) \\
+\multirow{2}{*}{Late Vintage} & 0.080** & 0.096*** \\
+ & (0.034) & (0.035) \\
+\hline
+Observations & 222 & 222 \\
+$R^2$ from Final Weights& 0.412 & 0.408 \\
+\hline
+\end{tabular}
+}
+\caption{Stepwise RLM results for Pi Curve}
+\end{table}
+\newpage
+
+\begin{table}[h!]
+\centering
+\resizebox{0.9\textwidth}{!}{%
+\begin{tabular}{lcc}
+\hline
+\multicolumn{3}{l}{\textbf{Dependent Variable: Sacrifice Ratio}} \\
+\hline
+\textbf{{Horizon}} & 20 & 40 \\
+\hline
+\multirow{2}{*}{Constant} & 6.809*** & 7.889*** \\
+ & (1.529) & (2.227) \\
+\multirow{2}{*}{Central Bank Author} &  & 1.828* \\
+ &  & (1.010) \\
+\multirow{2}{*}{$\log($Num. of Eqs.$)$} & -1.369*** & -2.069*** \\
+ & (0.505) & (0.716) \\
+\multirow{2}{*}{Rule: Growth} & 2.801*** & 3.131*** \\
+ & (0.816) & (1.153) \\
+\multirow{2}{*}{Rule: Inert. Taylor} & 1.494* & 1.599 \\
+ & (0.816) & (1.153) \\
+\hline
+Observations & 197 & 197 \\
+$R^2$ from Final Weights& 0.101 & 0.096 \\
+\hline
+\end{tabular}
+}
+\caption{Stepwise RLM results for Sacrifice Ratio}
+\end{table}
+\newpage

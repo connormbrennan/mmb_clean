@@ -1,0 +1,5 @@
+Artifact: y_.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 3ce7210f7442593ed1feeb3d750646b381288b1dd55164fff89ab9e5c510318d

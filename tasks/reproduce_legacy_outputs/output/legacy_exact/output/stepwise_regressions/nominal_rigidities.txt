@@ -1,0 +1,33 @@
+\begin{table}[h!]
+\centering
+\resizebox{0.95\textwidth}{!}{%
+\setlength{\tabcolsep}{8pt}%
+\begin{tabular}{lccc}
+\hline
+\textbf{Variable} & \multicolumn{1}{c}{\textbf{IS Curve}} & \multicolumn{1}{c}{\textbf{Pi Curve}} & \multicolumn{1}{c}{\textbf{Sacrifice Ratio}} \\
+\hline
+\textbf{Horizon} & 20 & 20 & 20 \\
+\hline
+Constant & -0.940*** & -0.136*** & 2.896*** \\
+ & (0.126) & (0.048) & (0.801) \\
+Estimated & 0.412*** & 0.070 & 0.430 \\
+ & (0.112) & (0.050) & (0.830) \\
+Price Idx & 0.213* & -0.092* & -1.888** \\
+ & (0.113) & (0.055) & (0.946) \\
+Rule: Growth & -0.592*** & -0.500*** & 3.024*** \\
+ & (0.127) & (0.053) & (0.860) \\
+Rule: Inert. Taylor & -0.380*** & -0.183*** & 1.431* \\
+ & (0.127) & (0.053) & (0.860) \\
+Sticky Wages $\times$ Not Wage Idx. & 0.508*** &  &  \\
+ & (0.127) &  &  \\
+Sticky Wages $\times$ Wage Idx. &  & 0.230*** & 3.087*** \\
+ &  & (0.062) & (1.088) \\
+\hline
+Observations & 217 & 217 & 192 \\
+$R^2$ from Final Weights & 0.193 & 0.352 & 0.108 \\
+\hline
+\end{tabular}
+}% end resizebox
+\caption{Stepwise RLM results (all models)}
+\end{table}
+\newpage

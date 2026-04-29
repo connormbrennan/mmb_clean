@@ -1,0 +1,5 @@
+Artifact: ipr60_modvars_rules.pdf
+Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/ipr60_modvars_rules.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: fde28fb8465471d248867aeaa959596bdb90afc6e241304e76561e51eb5f6252

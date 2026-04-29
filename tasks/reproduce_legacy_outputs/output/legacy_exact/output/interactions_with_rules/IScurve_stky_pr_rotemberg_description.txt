@@ -1,0 +1,5 @@
+Artifact: IScurve_stky_pr_rotemberg.pdf
+Copied from: legacy/mmb_upgraded/output/interactions_with_rules/IScurve_stky_pr_rotemberg.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 27f213e036b7326cc8bc4f0203ae8e0a869f3d6d9731546607850e43122e2c3c

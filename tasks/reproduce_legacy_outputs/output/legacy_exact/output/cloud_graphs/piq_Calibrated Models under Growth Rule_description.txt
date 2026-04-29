@@ -1,0 +1,5 @@
+Artifact: piq_Calibrated Models under Growth Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Calibrated Models under Growth Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 299ebcddd75b9aac86b5868ecfbe7e117a4f36dc8457745a8914f21f85cdc59a

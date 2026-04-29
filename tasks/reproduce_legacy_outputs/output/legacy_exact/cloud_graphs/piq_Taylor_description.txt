@@ -1,0 +1,5 @@
+Artifact: piq_Taylor.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/piq_Taylor.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 83d28aafadf72c517181263e13e41eedb83e8da29b372de69debee728c071634

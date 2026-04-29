@@ -1,0 +1,5 @@
+Artifact: interest.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/interest.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: e05fa2dfa5535cdfdb712f7360e2a5a93c2ac9da9b33b84772e06f32268771c1

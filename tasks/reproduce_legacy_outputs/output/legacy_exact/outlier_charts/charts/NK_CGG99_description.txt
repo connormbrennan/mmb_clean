@@ -1,0 +1,5 @@
+Artifact: NK_CGG99.pdf
+Copied from: legacy/mmb_upgraded/outlier_charts/charts/NK_CGG99.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 8bc8212b0ea8850627d819cb4534359b7392e72efd3e757daae1a62881c84703

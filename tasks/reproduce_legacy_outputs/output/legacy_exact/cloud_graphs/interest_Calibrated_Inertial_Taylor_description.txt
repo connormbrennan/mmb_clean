@@ -1,0 +1,5 @@
+Artifact: interest_Calibrated_Inertial_Taylor.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/interest_Calibrated_Inertial_Taylor.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: da2eeb3f51287ed23bfdf56a024cdb014dbf71465d343537fa271df659c380b6

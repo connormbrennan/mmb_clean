@@ -1,0 +1,5 @@
+Artifact: inflationq_Inertial_Taylor.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/inflationq_Inertial_Taylor.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 77c9075fee122b77e4a9093a429eecf7e14133f7baffa682ae7ee8a0944ecb60

@@ -1,0 +1,5 @@
+Artifact: y_Estimated_Inertial_Taylor.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/y_Estimated_Inertial_Taylor.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 7cd2dd2a6c783004d7089b4eb91a123d68411f57c637a111d3ee03aea4088737

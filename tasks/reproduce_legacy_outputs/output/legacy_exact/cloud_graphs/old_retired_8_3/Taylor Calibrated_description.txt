@@ -1,0 +1,5 @@
+Artifact: Taylor Calibrated.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Taylor Calibrated.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 8995408c9a1693f5422e1d51681223affd0d35be6425a3a629f6b43bc3b34835

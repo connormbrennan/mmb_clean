@@ -1,0 +1,5 @@
+Artifact: piq_Estimated_Model.png
+Copied from: legacy/mmb_upgraded/cloud_graphs/piq_Estimated_Model.png
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 8c83531a5369bb7cb6235819850c31e112ff9b54b43ee4c07e7c845ff6a7bf1b

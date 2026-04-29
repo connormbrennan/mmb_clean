@@ -1,0 +1,101 @@
+sample,outcome,feature,coef,se,p_value,interpretation
+panel_with_rule_controls,IScurve20,const,-0.4975841305499065,0.3373714116194392,0.1402433871141071,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,rule_itr,-0.37418487540276596,0.1146884633603254,0.0011038742350268844,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,rule_g,-0.6188857244876141,0.11436312394961708,6.246945631340034e-08,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,estimated,0.2449687748310497,0.12406713365473089,0.04832654774009119,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,sw_x_idx,0.2194527414650922,0.16598172395864685,0.18611819660000428,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,sw_x_noidx,0.4179561964724333,0.14164561849898274,0.003170368050023657,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,pr_ndx,0.21240827048956376,0.12808912559109253,0.09725996327800683,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,wlth,-0.2540043920427804,0.17736180034892826,0.15210785131779272,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,bnkcrdit,0.3374138648260365,0.1845320545378278,0.0674769808687427,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,ntwrth,0.11506506020436094,0.3431795111672486,0.7374054531003906,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,open,0.3705978218157246,0.2313965522708278,0.1092506856061244,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,wlth_x_bnk,-0.27759242540442847,0.2571153303232299,0.2803017765387953,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,bnk_x_ntw,-1.115774422477265,0.34894492920275927,0.0013859271824894265,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,ntw_x_wlth,-0.1842075508590748,0.3063031445726033,0.547580469018971,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,wlth_x_open,-0.3051068353169375,0.3738769270791279,0.41446455014133476,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,cb_authors_ext,-0.3216471461028181,0.20700573415002385,0.12023024438499207,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,ln_neq,-0.046082394448252434,0.0964941018560092,0.6329584548658811,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,vint_mid,-0.029950137927855024,0.21407426066478288,0.8887347610255727,stronger policy power (larger absolute slope)
+panel_with_rule_controls,IScurve20,vint_late,0.2602073979025252,0.27148602386351967,0.33783288819538104,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,IScurve20,cb_x_late,-0.10218753425526672,0.2577012299448575,0.6917104588861437,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,const,0.04421302411728085,0.15025814285249636,0.7685690854283915,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,infl_per_rr20,rule_itr,-0.193535215692783,0.05107983343463628,0.00015132969655644324,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,rule_g,-0.49859680227611664,0.050934934092350274,1.2565967157247632e-22,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,estimated,0.09879383596545885,0.05525689625717583,0.07379205195650758,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,infl_per_rr20,sw_x_idx,0.22346052154480142,0.07392477468605091,0.002504397266739151,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,infl_per_rr20,sw_x_noidx,0.02788522908921103,0.06308598430639524,0.6584751657324269,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,infl_per_rr20,pr_ndx,-0.08282268879146236,0.057048207014730824,0.14655672737761719,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,wlth,-0.08368701410042671,0.0789932217596046,0.2894084581753785,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,bnkcrdit,0.07662494973346756,0.08218670241948842,0.35116713063543403,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,infl_per_rr20,ntwrth,0.18368227344369845,0.1528449484367843,0.22945823057495285,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,infl_per_rr20,open,0.18796110955165402,0.10305916568267341,0.06817966783462129,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,infl_per_rr20,wlth_x_bnk,-0.0973048410686984,0.11451376940276768,0.3954798005412288,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,bnk_x_ntw,-0.19004043982745247,0.15541274457169013,0.2214010260392264,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,ntw_x_wlth,-0.045068957718206376,0.1364209890590124,0.7411228680176013,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,wlth_x_open,-0.07795297880589687,0.16651693292162464,0.6396855846996642,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,cb_authors_ext,-0.21625127047636314,0.09219600743256325,0.018998518663632728,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,ln_neq,-0.02395872787912142,0.042976446852760364,0.5771960506747416,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,vint_mid,-0.13187753206402464,0.09534418072238958,0.16661171203352443,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,vint_late,-0.10737006574262556,0.12091417456010226,0.3745484087517611,stronger policy power (larger absolute slope)
+panel_with_rule_controls,infl_per_rr20,cb_x_late,0.18433094196698538,0.11477471679194079,0.108268651740267,weaker policy power (smaller absolute slope)
+panel_with_rule_controls,sacratio20,const,7.852429888833575,3.233300462489647,0.015156774133521315,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,rule_itr,1.3974783468428882,0.9450790808817272,0.13922336705039323,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,rule_g,3.1166997581692684,0.9450790808817302,0.0009743891971073834,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,estimated,-0.50248655773997,1.0784189154867732,0.6412531064279503,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,sw_x_idx,5.361751250562602,1.440555909938093,0.0001976498524861164,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,sw_x_noidx,-0.5071457480713483,1.2719121733422782,0.6900943577750088,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,pr_ndx,-2.8250846584669285,1.1114922489103463,0.01103134475418205,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,wlth,-1.022257751154227,1.4164575946978524,0.47047880965151645,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,bnkcrdit,-1.5162935194576472,1.6433909224153034,0.35618363974681266,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,ntwrth,1.2355723865471253,2.7806830940735057,0.6567958341284692,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,open,4.060110194135641,2.4521382706739714,0.09777392344572851,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,wlth_x_bnk,2.299969651070233,2.104112458464755,0.27435733997110134,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,bnk_x_ntw,2.0354604885581216,2.8866229864613415,0.48072588467869737,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,ntw_x_wlth,-0.2583467800845443,2.7223849070787316,0.9243964586542945,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,wlth_x_open,3.688348367507496,4.036741393151729,0.3608774002169015,higher output cost of disinflation
+panel_with_rule_controls,sacratio20,cb_authors_ext,-0.058357543696621855,1.7647303026214383,0.973619709452667,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,ln_neq,-1.1629647812630135,0.8978354201108212,0.1952173116615845,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,vint_mid,-2.605829339943357,1.8469326534863464,0.1582753701145292,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,vint_late,-0.22983371514723422,2.223785069773895,0.9176832208569315,lower output cost of disinflation
+panel_with_rule_controls,sacratio20,cb_x_late,-1.440034432425849,2.144629662773377,0.5019271176872953,lower output cost of disinflation
+panel_with_rule_controls,y_timing_max,const,-0.5458745006939258,0.40079669629773224,0.17320623149658443,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,rule_itr,0.29486065766095937,0.08365328256073803,0.0004238109066829971,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,rule_g,0.46149228212815147,0.10843646965984642,2.0823112346689393e-05,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,estimated,0.6883256768473992,0.15592081557064735,1.0120399655814735e-05,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,sw_x_idx,0.04199519340016831,0.2597540485992417,0.871563437089232,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,sw_x_noidx,-0.003547928993227021,0.18332234360846722,0.9845591050063774,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,pr_ndx,0.029684575145779116,0.14795211779060427,0.8409829208554866,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,wlth,-0.07132247723966538,0.24348002259288987,0.7695760523363047,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,bnkcrdit,-0.058572568104364904,0.27148316877406536,0.8291824108092052,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,ntwrth,-0.1540136120705928,0.2885731473855985,0.5935440176718878,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,open,-0.12561198759591713,0.2790062993218855,0.652557575222293,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,wlth_x_bnk,0.15434627781891957,0.30121340696660986,0.608360572187105,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,bnk_x_ntw,0.2915644709357192,0.3038393418135132,0.33725617379638195,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,ntw_x_wlth,-0.3859437876976681,0.25899639970830796,0.136184492603434,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,wlth_x_open,0.3893444503786284,0.3627692030729844,0.2831559908931742,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,cb_authors_ext,0.7319230502730696,0.18128032707101888,5.4019108478051614e-05,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,ln_neq,0.09768863411984974,0.12863699173744886,0.44760539841505165,longer lag to peak effect
+panel_with_rule_controls,y_timing_max,vint_mid,-0.22956375145542987,0.3077105934676592,0.4556445472532157,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,vint_late,-0.07045051670224829,0.30681759456771446,0.8183894436091677,shorter lag to peak effect
+panel_with_rule_controls,y_timing_max,cb_x_late,-0.2699529349711667,0.28785590005566686,0.3483442157281148,shorter lag to peak effect
+panel_with_rule_controls,piq_timing_max,const,0.41753351764162383,0.5147589911018459,0.4172943020073351,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,rule_itr,0.03816763137711572,0.0866439012213177,0.6595667144198021,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,rule_g,0.1845312639359522,0.09658436799461831,0.05605977220197464,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,estimated,0.6311966141922042,0.1959984651493271,0.0012800465146967045,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,sw_x_idx,0.18321269437436624,0.24187778000329652,0.4487744424372526,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,sw_x_noidx,0.21864340007508837,0.16605126009225205,0.18793171989190216,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,pr_ndx,0.2841526108235506,0.15299413729267744,0.06327164479055758,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,wlth,-0.05885826459946275,0.17063815605681384,0.7301467962114989,shorter lag to peak effect
+panel_with_rule_controls,piq_timing_max,bnkcrdit,0.5341151775736983,0.21981129847492065,0.015103803735510197,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,ntwrth,-0.4898558281454833,0.20109926637322711,0.01485517338797976,shorter lag to peak effect
+panel_with_rule_controls,piq_timing_max,open,0.18790315656229123,0.32560529114467573,0.5638794909986895,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,wlth_x_bnk,-0.30735891404888066,0.2174069643132101,0.15743556449699636,shorter lag to peak effect
+panel_with_rule_controls,piq_timing_max,bnk_x_ntw,0.24256797733917942,0.21155501729838244,0.2515489417269988,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,ntw_x_wlth,0.16153442688916472,0.2090050967971073,0.43959745826221575,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,wlth_x_open,0.3299707633951146,0.3448023872517834,0.338574751720509,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,cb_authors_ext,1.0741023974471264,0.2592690774918584,3.4307691083919334e-05,longer lag to peak effect
+panel_with_rule_controls,piq_timing_max,ln_neq,-0.14165263333577138,0.13766056999329326,0.30347999296396977,shorter lag to peak effect
+panel_with_rule_controls,piq_timing_max,vint_mid,-0.5558563304581453,0.42543971051576596,0.19136712354914764,shorter lag to peak effect
+panel_with_rule_controls,piq_timing_max,vint_late,-0.5293807203059003,0.38179540696112524,0.16557718666182342,shorter lag to peak effect
+panel_with_rule_controls,piq_timing_max,cb_x_late,-0.8580849959459921,0.30139610474700396,0.004412863141648069,shorter lag to peak effect

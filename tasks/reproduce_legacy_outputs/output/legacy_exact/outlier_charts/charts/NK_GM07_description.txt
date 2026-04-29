@@ -1,0 +1,5 @@
+Artifact: NK_GM07.pdf
+Copied from: legacy/mmb_upgraded/outlier_charts/charts/NK_GM07.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 7d7827d0011d37cd2b1e9a3286f0a0c90bd744e2996a31d5f44c5e96b6e1a4eb

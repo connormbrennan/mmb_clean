@@ -1,0 +1,31 @@
+\begin{table}[h!]
+\centering
+\resizebox{0.95\textwidth}{!}{%
+\setlength{\tabcolsep}{8pt}%
+\begin{tabular}{lccc}
+\hline
+\textbf{Variable} & \multicolumn{1}{c}{\textbf{IS Curve}} & \multicolumn{1}{c}{\textbf{Pi Curve}} & \multicolumn{1}{c}{\textbf{Sacrifice Ratio}} \\
+\hline
+\textbf{Horizon} & 20 & 20 & 20 \\
+\hline
+Constant & -0.425*** & -0.326*** & 5.334*** \\
+ & (0.135) & (0.107) & (1.709) \\
+Central Bank Author & -0.292*** &  &  \\
+ & (0.113) &  &  \\
+Estimated & 0.324*** & 0.160*** & 1.092 \\
+ & (0.103) & (0.045) & (0.721) \\
+$\log(\text{Num. of Eqs.})$ &  & 0.059* & -1.045* \\
+ &  & (0.033) & (0.533) \\
+Rule: Growth & -0.563*** & -0.491*** & 3.011*** \\
+ & (0.125) & (0.055) & (0.861) \\
+Rule: Inert. Taylor & -0.363*** & -0.175*** & 1.504* \\
+ & (0.125) & (0.055) & (0.861) \\
+\hline
+Observations & 217 & 217 & 192 \\
+$R^2$ from Final Weights & 0.154 & 0.317 & 0.086 \\
+\hline
+\end{tabular}
+}% end resizebox
+\caption{Stepwise RLM results (all models)}
+\end{table}
+\newpage

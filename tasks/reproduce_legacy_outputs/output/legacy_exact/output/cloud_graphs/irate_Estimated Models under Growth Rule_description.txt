@@ -1,0 +1,5 @@
+Artifact: irate_Estimated Models under Growth Rule.pdf
+Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Estimated Models under Growth Rule.pdf
+Purpose: exact legacy generated output preserved under the current task structure.
+Transformation: none; SHA-256 hash matches the legacy source file.
+SHA-256: 9d593696a7f8372081e9854f4ab9e5c0590a1c3f3d360a50583d7c2c63b7da79
