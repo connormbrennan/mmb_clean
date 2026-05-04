@@ -1,0 +1,65 @@
+Consensus Economics inflation expectations panel
+
+Source and selection
+- WRDS library/table: tr_ds_econ.wrds_ecoinfo joined to tr_ds_econ.ecodata
+- Source filter: srccode == **20 (ZZ: CONSENSUS ECONOMICS INC.)
+- Description terms: consumer prices, %yoy
+- Main panel statistic: mean
+- Main panel horizons: [1, 2]
+- The script keeps announceddate as survey_date; perioddate is the target annual inflation year.
+- Realized CPI series from the old notebook are excluded because they are not sourced to Consensus Economics and have CONPRC-style mnemonics.
+
+Output files
+- panel_csv: consensus_economics_inflation_expectations_panel.csv
+- panel_parquet: consensus_economics_inflation_expectations_panel.parquet
+- vintages_csv: consensus_economics_inflation_forecast_vintages.csv
+- series_metadata_csv: consensus_economics_series_metadata.csv
+- codebook_txt: consensus_economics_inflation_expectations_panel_codebook.txt
+- availability_audit_txt: consensus_economics_wrds_availability_audit.txt
+
+Main panel dimensions
+- Rows: 21
+- Columns: 13
+- Countries: 1
+- Survey date range: 2013-02-07 00:00:00 to 2015-12-03 00:00:00
+- Target years: [2014, 2015, 2016]
+
+Available Consensus Economics CPI forecast series found on WRDS
+- ALCECPRM: ALBANIA, CONSUMER PRICES (%YOY, MEAN), ANNL, Percentage, statistic=mean
+- NLCACPRS: NETHERLANDS, CONSUMER PRICES (%YOY, STDEV), ANNL, Percentage, statistic=stdev
+
+Vintage coverage by statistic and horizon
+    country statistic  horizon_years  rows min_survey_date max_survey_date  min_target_year  max_target_year
+    Albania      mean             -1     2      2015-02-05      2015-03-04             2014             2014
+    Albania      mean              0    18      2014-01-02      2015-11-04             2014             2015
+    Albania      mean              1    21      2013-02-07      2015-12-03             2014             2016
+Netherlands     stdev              0    12      2015-01-15      2015-12-10             2015             2015
+Netherlands     stdev              1    24      2014-01-16      2015-12-10             2015             2016
+
+Column dtypes
+survey_date                  datetime64[ns]
+country                              object
+mktcode                              object
+target_year                           int32
+horizon_years                         int32
+inflation_expectation_pct           float64
+dsmnemonic                           object
+ecoseriesid                         float64
+desc_english                         object
+source_check                         object
+unitcodedesc                         object
+freqcode                             object
+changeseq                           float64
+
+First rows
+survey_date country mktcode  target_year  horizon_years  inflation_expectation_pct dsmnemonic  ecoseriesid                 desc_english                 source_check unitcodedesc freqcode  changeseq
+ 2013-02-07 Albania      H1         2014              1                   3.200000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        0.0
+ 2013-03-19 Albania      H1         2014              1                   3.300000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        1.0
+ 2013-06-06 Albania      H1         2014              1                   3.200000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        2.0
+ 2013-07-04 Albania      H1         2014              1                   2.700000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        3.0
+ 2013-12-18 Albania      H1         2014              1                   2.400000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        4.0
+ 2014-02-06 Albania      H1         2015              1                   3.000000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        0.0
+ 2014-03-06 Albania      H1         2015              1                   2.500000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        1.0
+ 2014-05-09 Albania      H1         2015              1                   2.400001   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        2.0
+ 2014-06-05 Albania      H1         2015              1                   3.000000   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        3.0
+ 2014-07-02 Albania      H1         2015              1                   2.600003   ALCECPRM     143242.0 CONSUMER PRICES (%YOY, MEAN) ZZ: CONSENSUS ECONOMICS INC.   Percentage     ANNL        4.0

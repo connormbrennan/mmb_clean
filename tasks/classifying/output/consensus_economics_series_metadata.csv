@@ -1,0 +1,3 @@
+ecoseriesid,dsnumber,dsmnemonic,startdate,isforecast,mktcode,mktdesc,srccode,srccodedesc,statcode,scalecode,unitcode,unitcodedesc,freqcode,clstype1desc,clstype2desc,desc_english,statistic
+143242.0,853510730,ALCECPRM,2014-01-01,0.0,H1,ALBANIA,**20,ZZ: CONSENSUS ECONOMICS INC.,REG,UNI,241,Percentage,ANNL,n/a or 'no code assigned',Forecast,"CONSUMER PRICES (%YOY, MEAN)",mean
+151362.0,853501078,NLCACPRS,2015-01-01,0.0,21,NETHERLANDS,**20,ZZ: CONSENSUS ECONOMICS INC.,REG,UNI,241,Percentage,ANNL,n/a or 'no code assigned',Forecast,"CONSUMER PRICES (%YOY, STDEV)",stdev

@@ -77,5 +77,167 @@ For each model with a paper within the "MMB Set 1" local sources, letting y be t
 
 
 
+## Claude Optimized Version
+
+# Task: Audit Model Characteristics via ChatGPT
+
+## Overview
+Verify the entries in `Model_Characteristics_corrections.xlsx` by querying ChatGPT (already open in the Browser Use environment) about each model's characteristics. When ChatGPT's answer differs from the spreadsheet, log the discrepancy in `model_audit.csv`.
+
+## Inputs
+- **Spreadsheet to audit:** `Model_Characteristics_corrections.xlsx` — contains the current codings. The `Model` column lists the model names; other columns hold the codings to verify.
+- **Model-to-paper map:** `/notes/mmb_model_paper_map.md` — maps each model name to a paper filename.
+- **Papers:** Already uploaded to the ChatGPT project folder titled **"MMB Set 1"**. Additional project folders will arrive later; for now, only process models whose papers exist in MMB Set 1.
+
+## Output
+- **`model_audit.csv`** — columns: `model`, `variable`, `right_coding`, `explanation`. Append rows incrementally as discrepancies are found (do **not** batch them at the end).
+
+---
+
+## High-Level Workflow
+
+For **each model** whose paper exists in the MMB Set 1 folder:
+
+1. Look up the paper filename `y` for the model in `/notes/mmb_model_paper_map.md`.
+2. In the ChatGPT browser, create a **new chat** inside the **MMB Set 1** project.
+3. Send the **priming message** (below). Wait for ChatGPT's reply before continuing.
+4. Send each **audit question** (below) one at a time. Wait for ChatGPT's reply between every message.
+5. After each reply, compare ChatGPT's answer to the corresponding column in `Model_Characteristics_corrections.xlsx` for that model.
+   - If they **differ**, append one row to `model_audit.csv` immediately.
+   - If they **match**, log nothing.
+6. Move to the next question (or next model when done).
+
+**Critical rules:**
+- Always wait for ChatGPT's response between messages — never send two messages back-to-back.
+- Log discrepancies one-at-a-time per question, not in a batch.
+- Do not modify `Model_Characteristics_corrections.xlsx` — read-only.
+
+---
+
+## Priming Message (first message in every new chat)
+
+> Read the model in **y** like you are a PhD macroeconomist economist with a wealth of modeling experience. You tell things straight and directly. No need to summarize the model or paper—just add it to your context as I will ask questions on it.
+
+Replace `y` with the actual paper filename taken from the map. **Wait for ChatGPT's reply before sending Question 1.**
+
+---
+
+## Question Template
+
+Wrap each question below in this exact template before sending:
+
+> "**\<question text\>**? Give a short explanation for your answer (not more than 2 sentences) with a specific page number of the paper to cite if possible."
+
+Send each as a separate message. Wait for ChatGPT's reply between each.
+
+---
+
+## Conditional Sub-Questions
+
+Some questions have indented sub-questions. **Only ask sub-questions if the parent question's answer is True.** Otherwise skip them entirely.
+
+---
+
+## Logging Rule (applied after every question)
+
+After each ChatGPT reply:
+1. Look up the value in `Model_Characteristics_corrections.xlsx` for the current `model` in the column named in parentheses next to the question.
+2. Compare ChatGPT's answer to that value.
+3. If **different**, append a row to `model_audit.csv`:
+   - `model` — model name (from the `Model` column)
+   - `variable` — the column name in parentheses (e.g., `CB_Authors`)
+   - `right_coding` — ChatGPT's answer (True/False, percentage, category, date, etc.)
+   - `explanation` — ChatGPT's short explanation including the cited page number
+4. If **same**, do nothing.
+
+---
+
+## Question List
+
+For each question below, the **bold text** is what to send (inside the question template above). The name in parentheses is the corresponding column in `Model_Characteristics_corrections.xlsx`.
+
+### Q1 (`CB_Authors`)
+**True or False: Does this model have authors who've worked at a central bank PRIOR to publication of the paper? Specifically search and look through the economists' CVs, websites, backgrounds, or anything else to ascertain if so. If multiple authors, report the fraction in a percentage. Consultancies, visiting scholar positions, graduate research programs, and internships do NOT count as working at a central bank.**
+
+### Q2 (`Open`)
+**True or False: Does this model have an open economy?**
+
+### Q3 (`Gov_Spend`)
+**True or False: Does this model have government spending in a nontrivial way that affects equilibrium?**
+
+### Q4 (`Tax`)
+**True or False: Does this model have taxes in a nontrivial way that affects equilibrium?**
+
+### Q5 (`Gov_Debt`)
+**True or False: Does this model have government debt in a nontrivial way that affects equilibrium?**
+
+### Q6 (`Learning`)
+**True or False: Does this model have learning?**
+
+### Q7 (`Rational_Expectations`)
+**True or False: Does this model have rational expectations?**
+
+### Q8 (`Lagged_Terms`)
+**True or False: Does this model have lagged terms in a nontrivial way that affects equilibrium?**
+
+### Q9 (`Sticky_Prices`)
+**True or False: Does this model have sticky prices?**
+
+If True, then ask:
+- (`Sticky_Price_Method`) **If so, what is their sticky price method? Choose between Calvo, Rotemberg, or Other.**
+- (`Sticky_Price_Sector`) **If so, in what sector do sticky prices apply? Choose between All Sectors, Final Goods Firms, Intermediate Goods Firms, or Other.**
+
+### Q10 (`Sticky_Wages`)
+**True or False: Does this model have sticky wages?**
+
+If True, then ask:
+- (`Sticky_Wage_Method`) **If so, what is their sticky wage method? Choose between Calvo, Rotemberg, Wage Contracting, Bargaining, or Other.**
+
+### Q11 (`Price_Indexation`)
+**True or False: Does this model have price indexation?**
+
+If True, then ask:
+- (`Price_Index_Method`) **If so, by what method? Choose between Prev Price Inflation, Multiple (e.g., a weighted combination of past inflation and the target), Steady State Inflation, or Other.**
+- (`Price_Index_Coverage`) **Does price indexation have partial or full coverage? Answer one or the other.**
+
+### Q12 (`Wage_Indexation`)
+**Does this model have wage indexation?**
+
+If True, then ask:
+- (`Wage_Index_Method`) **If so, by what method? Choose between Prev Price Inflation, Prev Wage Inflation, Steady State Inflation, Multiple (e.g., a weighted combination of past wage inflation and the steady state), Prev Wages, or Other.**
+- (`Wage_Index_Coverage`) **Does wage indexation have partial or full coverage?**
+
+### Q13 (`Date_Pub`)
+**When was this model published?**
+
+### Q14 (`Working_Paper`)
+**Is this only ever published as a working paper?**
+
+### Q15 (`Published`)
+**Is this model published in an academic journal?**
+
+### Q16 (`Estimated`)
+**Was this model estimated?**
+
+If True, then ask:
+- (`Est_Date_Range_Start`) **What is the estimate date range start?**
+- (`Est_Date_Range_End`) **What is the estimate date range end?**
+
+### Q17 (`Calibrated`)
+**Was this model calibrated?**
+
+---
+
+## Quick Checklist (per model)
+
+- [ ] Found paper `y` in `/notes/mmb_model_paper_map.md`
+- [ ] Confirmed `y` exists in MMB Set 1 project folder
+- [ ] Created new chat in MMB Set 1
+- [ ] Sent priming message; waited for reply
+- [ ] Asked Q1–Q17 in order, one at a time, waiting for reply between each
+- [ ] Skipped sub-questions whose parent was False
+- [ ] Logged each discrepancy to `model_audit.csv` immediately after the question
+- [ ] Did not batch logging or modify the source spreadsheet
+
 
 
