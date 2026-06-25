@@ -1,5 +1,0 @@
-Artifact: irate_Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: d3c36a84cbe08a90dbe9c2186d9aa5cffd831f38340e70f4d4fc0956f5509b9d

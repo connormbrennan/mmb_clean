@@ -1,5 +1,0 @@
-Artifact: piq_timing_max_rules_timing_hist.pdf
-Copied from: legacy/mmb_upgraded/output/summarystats/piq_timing_max_rules_timing_hist.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: dab47d07a952a9496603e59016ee858a8b50e8dd761146ba1bf5d8129dd9af94

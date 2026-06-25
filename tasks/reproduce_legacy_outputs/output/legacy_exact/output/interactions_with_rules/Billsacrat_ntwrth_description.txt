@@ -1,5 +1,0 @@
-Artifact: Billsacrat_ntwrth.pdf
-Copied from: legacy/mmb_upgraded/output/interactions_with_rules/Billsacrat_ntwrth.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 1897147132aafc54cbf2af0975e39c6d9a8bbd531312ea99f9262212d53038fb

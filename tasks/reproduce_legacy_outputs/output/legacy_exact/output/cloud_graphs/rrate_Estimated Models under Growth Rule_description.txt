@@ -1,5 +1,0 @@
-Artifact: rrate_Estimated Models under Growth Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Estimated Models under Growth Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 87ff230a9ec67c32fc13f9bd44e26a2901f08140d7d4eaf73fed908acfc375d2

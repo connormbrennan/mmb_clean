@@ -1,5 +1,0 @@
-Artifact: piq_timing_max_realrig_all.pdf
-Copied from: legacy/mmb_upgraded/output/stepwise_regressions/piq_timing_max_realrig_all.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: af4fcfd7d8704177b3a6c5132e62d996eb28eee1c97a59a0166ac7984064e488

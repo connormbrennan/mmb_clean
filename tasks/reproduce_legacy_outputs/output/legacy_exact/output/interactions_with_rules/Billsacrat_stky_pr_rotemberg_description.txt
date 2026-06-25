@@ -1,5 +1,0 @@
-Artifact: Billsacrat_stky_pr_rotemberg.pdf
-Copied from: legacy/mmb_upgraded/output/interactions_with_rules/Billsacrat_stky_pr_rotemberg.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 7194bf271313f93a61477028c225469f24b85129c8eb1c7d3aa42e52daaae29d

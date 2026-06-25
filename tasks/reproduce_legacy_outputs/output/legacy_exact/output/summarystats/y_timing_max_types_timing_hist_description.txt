@@ -1,5 +1,0 @@
-Artifact: y_timing_max_types_timing_hist.pdf
-Copied from: legacy/mmb_upgraded/output/summarystats/y_timing_max_types_timing_hist.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: d0dc3dc219b35b311854f1a8fe289f4c4d1cb8d940256f319b23092d663945d0

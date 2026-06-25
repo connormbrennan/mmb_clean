@@ -1,5 +1,0 @@
-Artifact: sacratio_bnkcrdit.pdf
-Copied from: legacy/mmb_upgraded/output/interactions_with_rules/sacratio_bnkcrdit.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: b91a93f10bcf5077170032f5bdd166133cf8cbada7688306982612ddec27b225

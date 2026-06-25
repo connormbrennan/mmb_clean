@@ -1,5 +1,0 @@
-Artifact: stky_pr_rotemberg.png
-Copied from: legacy/mmb_upgraded/bob/graphs_ols/stky_pr_rotemberg.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: b157205f31bf6d17c0a547fc8d0265971d52d993e82f6bffc0b284a6ee64d763

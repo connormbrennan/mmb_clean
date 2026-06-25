@@ -1,5 +1,0 @@
-Artifact: estimated_c.png
-Copied from: legacy/mmb_upgraded/bob/graphs_ols/estimated_c.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 034137102146795a7a7303650a9991e00ecad8d4eb04575b224221d73180d4cd

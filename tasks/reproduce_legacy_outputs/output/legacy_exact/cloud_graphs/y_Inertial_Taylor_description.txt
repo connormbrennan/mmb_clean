@@ -1,5 +1,0 @@
-Artifact: y_Inertial_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/y_Inertial_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 91d53df84b6386d8bc0c9e78737833cb87d96ff7fea7c6ac756afef6ca1ed4e2

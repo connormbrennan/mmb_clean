@@ -1,5 +1,0 @@
-Artifact: y_Estimated Models under Inertial Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Estimated Models under Inertial Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 3c5a877187f3823516651e52eb10cbbb33085a5908c515f522cdb9764a7f74cd

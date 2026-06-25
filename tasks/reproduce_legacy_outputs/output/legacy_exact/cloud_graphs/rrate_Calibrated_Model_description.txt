@@ -1,5 +1,0 @@
-Artifact: rrate_Calibrated_Model.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/rrate_Calibrated_Model.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: bd1c8fff051381ed0b0c21a92c177d885d6344c552005d4dd13d50556c0b824b

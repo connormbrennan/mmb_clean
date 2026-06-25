@@ -1,5 +1,0 @@
-Artifact: US_PV15.pdf
-Copied from: legacy/mmb_upgraded/outlier_charts/charts/US_PV15.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 59677ad1cb720fc25549ab1c70db282f8227a67ffae06539b230998182bbecb0

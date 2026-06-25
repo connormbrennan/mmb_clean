@@ -6,8 +6,9 @@ mmb:
   horizons: [20, 40, 60]
   drop_model_rule: 1
   pi_in_sacratio: 0
-  time_limit: 60
+  time_limit: 99
   cloud_graph_extent: 20
+  citation_weight_as_of: "2026-02"
   random_seed: 42
   duplicate_models_to_drop:
     - "US_ACELswt"
@@ -35,5 +36,151 @@ mmb:
     - "NK_JO15_ht"
     - "NK_CGG99"
     - "US_IR15"
+  model_name_replacements:
+    US_FMS134: "US_FMS13"
   output_response_labels:
     - "Output Gap"
+
+mmb_regression_tables:
+  cluster_var: "model"
+  fixed_vars:
+    - "rule_g"
+    - "rule_itr"
+    - "estimated"
+  outcomes:
+    - "IScurve20"
+    - "infl_per_rr20"
+    - "sacratio20"
+    - "y_timing_max"
+    - "piq_timing_max"
+  timing_outcomes:
+    - "y_timing_max"
+    - "piq_timing_max"
+  table_specs:
+    policy_rules_estimation:
+      title: "Policy Rules Estimation"
+      variables: []
+    nominal_rigidities:
+      title: "Nominal Rigidities"
+      variables:
+        - "stky_wg:wg_ndx"
+        - "stky_wg:not_wg_ndx"
+        - "pr_ndx"
+    real_rigidities:
+      title: "Real Rigidities"
+      variables:
+        - "hh_demand"
+        - "firm_bs"
+        - "bank"
+        - "labor_frict"
+        - "open"
+        - "hh_demand:firm_bs"
+        - "hh_demand:bank"
+        - "hh_demand:labor_frict"
+        - "hh_demand:open"
+        - "firm_bs:bank"
+        - "firm_bs:labor_frict"
+        - "firm_bs:open"
+        - "bank:labor_frict"
+        - "bank:open"
+        - "labor_frict:open"
+    real_rigidities_estimated:
+      title: "Real Rigidities, Estimated Models"
+      variables:
+        - "hh_demand"
+        - "firm_bs"
+        - "bank"
+        - "labor_frict"
+        - "open"
+    nonmodel_attributes:
+      title: "Nonmodel Attributes"
+      variables:
+        - "cb_authors_ext"
+        - "ln_neq"
+        - "vint_mid"
+        - "vint_late"
+        - "cb_authors_ext:vint_late"
+    broad_model_variables:
+      title: "Broad Model Variables"
+      variables:
+        - "stky_wg:wg_ndx"
+        - "stky_wg:not_wg_ndx"
+        - "pr_ndx"
+        - "hh_demand"
+        - "firm_bs"
+        - "bank"
+        - "labor_frict"
+        - "open"
+        - "hh_demand:firm_bs"
+        - "hh_demand:bank"
+        - "hh_demand:labor_frict"
+        - "hh_demand:open"
+        - "firm_bs:bank"
+        - "firm_bs:labor_frict"
+        - "firm_bs:open"
+        - "bank:labor_frict"
+        - "bank:open"
+        - "labor_frict:open"
+        - "cb_authors_ext"
+        - "ln_neq"
+        - "vint_mid"
+        - "vint_late"
+        - "cb_authors_ext:vint_late"
+    broad_model_variables_estimated:
+      title: "Broad Model Variables, Estimated Models"
+      variables:
+        - "stky_wg:wg_ndx"
+        - "stky_wg:not_wg_ndx"
+        - "pr_ndx"
+        - "hh_demand"
+        - "firm_bs"
+        - "bank"
+        - "labor_frict"
+        - "open"
+        - "cb_authors_ext"
+        - "ln_neq"
+        - "vint_mid"
+        - "vint_late"
+        - "cb_authors_ext:vint_late"
+  var_labels:
+    Intercept: "Constant"
+    rule_g: "Rule: Growth"
+    rule_itr: "Rule: Inertial Taylor"
+    estimated: "Estimated"
+    stky_wg: "Sticky wages"
+    wg_ndx: "Wage indexation"
+    not_wg_ndx: "Not wage indexed"
+    pr_ndx: "Price indexation"
+    hh_demand: "Constrained household demand"
+    bank: "Bank intermediation channel"
+    firm_bs: "Firm balance-sheet channel"
+    labor_frict: "Labor-market friction"
+    open: "Open economy"
+    cb_authors_ext: "Central bank authors"
+    ln_neq: "Log number of equations"
+    vint_early: "Early vintage"
+    vint_mid: "Middle vintage"
+    vint_late: "Late vintage"
+    est_early: "Early estimation sample"
+    est_late: "Late estimation sample"
+  outcome_labels:
+    IScurve20: "IS curve slope"
+    infl_per_rr20: "Inflation per real-rate response"
+    sacratio20: "Sacrifice ratio"
+    y_timing_max: "Output timing"
+    piq_timing_max: "Inflation timing"
+
+classifying_v2:
+  gemini_model: "gemini-3.5-flash"
+  cache_ttl_seconds: 172800
+  temperature: 1.0
+  max_output_tokens: 8192
+  file_processing_poll_seconds: 2
+  file_processing_timeout_seconds: 600
+  request_pause_seconds: 1
+  request_retry_attempts: 4
+  request_retry_sleep_seconds: 20
+  max_models_per_run: 0
+  rerun_unclear_outputs: 1
+  use_google_search_for_external_metadata: 1
+  run_stage: "run"

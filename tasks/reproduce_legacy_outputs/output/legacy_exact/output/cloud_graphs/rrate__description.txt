@@ -1,5 +1,0 @@
-Artifact: rrate_.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: fdd06dc7c62f4c380c3a75a3ba5d591b15066164854c83a6931131097e57d5ed

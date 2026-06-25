@@ -1,5 +1,0 @@
-Artifact: irate_Calibrated Models under Inertial Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Calibrated Models under Inertial Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 4e32a4611eb0680e49d43d24139c86665c1412e095de9971c04f31a04a339725

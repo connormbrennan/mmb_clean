@@ -1,5 +1,0 @@
-Artifact: irate_timing_min_types_timing_hist.pdf
-Copied from: legacy/mmb_upgraded/output/summarystats/irate_timing_min_types_timing_hist.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 5be080d5725d6a71b77f03df52e6ace408980f70aa3aebe336cd71bf1a18bca0

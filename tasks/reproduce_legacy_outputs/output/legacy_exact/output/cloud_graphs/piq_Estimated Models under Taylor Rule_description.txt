@@ -1,5 +1,0 @@
-Artifact: piq_Estimated Models under Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Estimated Models under Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: ebb1784d9f8773216762074d9a50133da39f3b9eda626647590937921c3dbeaa

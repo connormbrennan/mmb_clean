@@ -1,5 +1,0 @@
-Artifact: piq_Estimated Models under Growth Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_Estimated Models under Growth Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: cafad0efeddcee31aae9dc6b0cd46789119d203e01bd5ea74c886ec85ed7c016

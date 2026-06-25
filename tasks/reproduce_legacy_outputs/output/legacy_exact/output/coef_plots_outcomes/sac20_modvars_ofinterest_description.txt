@@ -1,5 +1,0 @@
-Artifact: sac20_modvars_ofinterest.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/sac20_modvars_ofinterest.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 71653b6d64e65348abe34f2446503f2a7a1a5b244cfde45e22a239b624ff3382

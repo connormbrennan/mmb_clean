@@ -1,5 +1,0 @@
-Artifact: ipr60_nonmodvars_rules.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/ipr60_nonmodvars_rules.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 5a66687d93a094de7e14506222027b465b97cf48572b2f97bc06dd697f162beb

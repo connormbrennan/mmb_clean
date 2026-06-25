@@ -1,5 +1,0 @@
-Artifact: interest_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/interest_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 0d59763124e13acbe1446a668a33c32b6096701db60890378a5ed00f81bda1dd

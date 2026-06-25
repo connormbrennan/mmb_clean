@@ -1,5 +1,0 @@
-Artifact: rrate_timing_min_types_timing_hist.pdf
-Copied from: legacy/mmb_upgraded/output/summarystats/rrate_timing_min_types_timing_hist.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 10d788fefe11e65f21832817e1c2a69481efdebf4dddc39f132b013211a684b3

@@ -1,5 +1,0 @@
-Artifact: Model Estimated.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Model Estimated.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 91817cdd7722c12b4bf4a8d72bb06a29c04b729b6cc766b317b24f2a5897401d

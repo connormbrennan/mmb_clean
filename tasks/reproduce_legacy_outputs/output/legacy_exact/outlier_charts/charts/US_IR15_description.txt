@@ -1,5 +1,0 @@
-Artifact: US_IR15.pdf
-Copied from: legacy/mmb_upgraded/outlier_charts/charts/US_IR15.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 6b2ce6315413d3c730c4913606464924807300dd5081fe25c06b029ce712f8e2

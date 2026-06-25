@@ -1,5 +1,0 @@
-Artifact: IScurve_ntwrth.pdf
-Copied from: legacy/mmb_upgraded/output/interactions_with_rules/IScurve_ntwrth.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 9ad07d47c7f301767036b24ba3e22cb1e789fd86f9d332c613ccd95b292b54dc

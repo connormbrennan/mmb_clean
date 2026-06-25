@@ -1,5 +1,0 @@
-Artifact: y_Calibrated Models under Inertial Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Calibrated Models under Inertial Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 9c864d9a582e8a34efe42ffc3bfd3d18f646c967cdf2caa39f3c81791457080c

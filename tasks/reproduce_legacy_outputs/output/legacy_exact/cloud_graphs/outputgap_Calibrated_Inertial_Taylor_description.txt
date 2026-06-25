@@ -1,5 +1,0 @@
-Artifact: outputgap_Calibrated_Inertial_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/outputgap_Calibrated_Inertial_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 4345b4602ee0062514fc0f6e31710460b1fa263e9c561d6f0541e01abd2dbe3e

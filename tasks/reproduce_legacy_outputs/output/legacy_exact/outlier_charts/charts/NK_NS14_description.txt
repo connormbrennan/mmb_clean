@@ -1,5 +1,0 @@
-Artifact: NK_NS14.pdf
-Copied from: legacy/mmb_upgraded/outlier_charts/charts/NK_NS14.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 359e5830ff6faebe2533b1afedebae9ccf0acab96ac8a8f82812e501b207f175

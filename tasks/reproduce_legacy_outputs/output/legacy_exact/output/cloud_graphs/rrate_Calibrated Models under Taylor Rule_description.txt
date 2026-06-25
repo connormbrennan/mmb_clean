@@ -1,5 +1,0 @@
-Artifact: rrate_Calibrated Models under Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Calibrated Models under Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 3fd8a7947bf24020a9bfe3811b4b0dfb0093e32304776c577cf78e87579dc89e

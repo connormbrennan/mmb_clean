@@ -1,7 +1,0 @@
-sample,outcome,feature,coef,se,p_value,interpretation
-model_average_across_rules,IScurve20,bnk_x_ntw,-1.423550112898752,0.6150976784796167,0.020648638053717274,stronger policy power (larger absolute slope)
-model_average_across_rules,infl_per_rr20,sw_x_idx,0.20602321643770852,0.11718980826747205,0.07874237909058679,weaker policy power (smaller absolute slope)
-model_average_across_rules,piq_timing_max,cb_authors_ext,4.67163361592656,1.6570807346633074,0.004814427014611774,longer lag to peak effect
-model_average_across_rules,piq_timing_max,cb_x_late,-3.9539716550696986,1.6051486374711832,0.013766251829952112,shorter lag to peak effect
-model_average_across_rules,sacratio20,sw_x_idx,5.93398629538604,3.1187162679404197,0.05707949881757473,higher output cost of disinflation
-model_average_across_rules,y_timing_max,cb_authors_ext,1.260535076579715,0.692983707280195,0.06891193356665479,longer lag to peak effect

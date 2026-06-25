@@ -1,5 +1,0 @@
-Artifact: piq_Calibrated.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/piq_Calibrated.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: c54f5f66e99cec906c1a09e270fafcf3adcb1104aa63dfc170ba25e4c2432b26

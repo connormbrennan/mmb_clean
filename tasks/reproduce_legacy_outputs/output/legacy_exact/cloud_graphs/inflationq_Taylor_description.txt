@@ -1,5 +1,0 @@
-Artifact: inflationq_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/inflationq_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 1f7cf77fe75f023a057984435207bd29e2827891446bc8cd1063805427edec38

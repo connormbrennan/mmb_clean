@@ -1,5 +1,0 @@
-Artifact: y_Calibrated_Growth.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/y_Calibrated_Growth.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 94114b3130ecdf4b9aa7364f6015fe4d87a67f405410404e8b65c02c009bc3fc

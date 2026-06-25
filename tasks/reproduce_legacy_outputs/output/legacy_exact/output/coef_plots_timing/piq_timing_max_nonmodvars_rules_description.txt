@@ -1,5 +1,0 @@
-Artifact: piq_timing_max_nonmodvars_rules.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_timing/piq_timing_max_nonmodvars_rules.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: d086d49afe3ba6455bba33f248fdfe30e34f5eb0736787bdf82d05bd72024483

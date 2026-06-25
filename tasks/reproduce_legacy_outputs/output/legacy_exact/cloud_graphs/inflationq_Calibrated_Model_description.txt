@@ -1,5 +1,0 @@
-Artifact: inflationq_Calibrated_Model.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/inflationq_Calibrated_Model.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 03a6ee0ee4c6c8f065543d08c2f69902a58fbecfd5da3bf7050f0b64fa194282

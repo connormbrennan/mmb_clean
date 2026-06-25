@@ -1,5 +1,0 @@
-Artifact: y_Calibrated Models under Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Calibrated Models under Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 053b8851a63009bcab2d4d617d944c3aee88f627d6cfef4fac7b05e6f1035077

@@ -1,5 +1,0 @@
-Artifact: irate_Estimated Models under Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Estimated Models under Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: c9a39ebb6293b14baeadd94e7d5cac54c9c9578a1ec090c7988771c40b2a5e0f

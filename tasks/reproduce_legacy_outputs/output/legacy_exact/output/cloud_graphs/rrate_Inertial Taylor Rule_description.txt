@@ -1,5 +1,0 @@
-Artifact: rrate_Inertial Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Inertial Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: e8bac9981086ab4222bb218b007721ae50e94e76818015def8afb14380ebe9cd

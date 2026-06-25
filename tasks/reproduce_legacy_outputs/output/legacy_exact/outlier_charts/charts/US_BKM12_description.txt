@@ -1,5 +1,0 @@
-Artifact: US_BKM12.pdf
-Copied from: legacy/mmb_upgraded/outlier_charts/charts/US_BKM12.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: aa7169d77960b07f9577303d2cf048fe8be61dbe938355152c8404dfdd32691a

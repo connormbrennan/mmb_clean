@@ -1,5 +1,0 @@
-Artifact: Inertial_Taylor Calibrated.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Inertial_Taylor Calibrated.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 986e6ef57c3011ffacc88dbc0914c60d7115b54d7977ad5e34ee62aa17d836cd

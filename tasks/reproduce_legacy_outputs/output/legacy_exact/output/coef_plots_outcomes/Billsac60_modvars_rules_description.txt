@@ -1,5 +1,0 @@
-Artifact: Billsac60_modvars_rules.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/Billsac60_modvars_rules.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 469843df8d7e08ba9e2165a4bcfb93c76415ed8f80d6cb5431c30c85e7f5d5f5

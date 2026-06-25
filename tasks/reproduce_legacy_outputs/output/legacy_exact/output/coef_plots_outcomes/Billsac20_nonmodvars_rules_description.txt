@@ -1,5 +1,0 @@
-Artifact: Billsac20_nonmodvars_rules.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/Billsac20_nonmodvars_rules.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 50895237496e8282703ab2315d81d271715b7897c3b35048f516985c8e9a679a

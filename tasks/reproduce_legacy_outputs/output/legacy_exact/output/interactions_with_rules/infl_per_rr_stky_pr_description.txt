@@ -1,5 +1,0 @@
-Artifact: infl_per_rr_stky_pr.pdf
-Copied from: legacy/mmb_upgraded/output/interactions_with_rules/infl_per_rr_stky_pr.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 5a3892b188b93b79da985d3f66057d4ae156c9f672004f296feb8f67ab9b49d1

@@ -1,5 +1,0 @@
-Artifact: outlier_charts.zip
-Copied from: legacy/mmb_upgraded/outlier_charts/charts/outlier_charts.zip
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 5d2cccfabc78175be703ec527976935fae92f9bd18ed4aada772b3322a9f26d0

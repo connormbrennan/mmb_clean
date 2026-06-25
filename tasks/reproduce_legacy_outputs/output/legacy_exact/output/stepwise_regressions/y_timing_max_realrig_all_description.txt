@@ -1,5 +1,0 @@
-Artifact: y_timing_max_realrig_all.pdf
-Copied from: legacy/mmb_upgraded/output/stepwise_regressions/y_timing_max_realrig_all.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 2da750d86d52eacf97035ecb70b640606d9b2ee04cd4eac6778654f637d88ef8

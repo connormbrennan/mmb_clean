@@ -1,5 +1,0 @@
-Artifact: irate_Growth Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Growth Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 5332df80058cfdf5aa900629b18f0685eea9acaee5c408e10a8839a8095f311c

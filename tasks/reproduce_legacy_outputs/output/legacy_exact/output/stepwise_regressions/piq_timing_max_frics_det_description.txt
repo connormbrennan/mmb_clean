@@ -1,5 +1,0 @@
-Artifact: piq_timing_max_frics_det.pdf
-Copied from: legacy/mmb_upgraded/output/stepwise_regressions/piq_timing_max_frics_det.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: d68aaaa1a56ebf58f2dc1f9b30bfe1d43b871f68ed434e0221791541857f9a7c

@@ -1,5 +1,0 @@
-Artifact: interest_Inertial_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/interest_Inertial_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 45798400893ae03e1695b8eed3afb43166f80df26bde7f8b85b948c1d3b3260d

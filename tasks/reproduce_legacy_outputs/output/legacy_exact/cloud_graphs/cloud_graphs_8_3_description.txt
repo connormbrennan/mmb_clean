@@ -1,5 +1,0 @@
-Artifact: cloud_graphs_8_3.zip
-Copied from: legacy/mmb_upgraded/cloud_graphs/cloud_graphs_8_3.zip
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 363211bb60b83192ee46b4c76e53f8cbf49d663a131a7f0697df1e35953e7b30

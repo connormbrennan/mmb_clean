@@ -1,5 +1,0 @@
-Artifact: y_Growth Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Growth Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: e30d211d625f698e93a448f902a2074c56b322bcb3ed4a333c9b1e074bc15b13

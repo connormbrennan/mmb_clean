@@ -1,5 +1,0 @@
-Artifact: sacratio_other_channel.pdf
-Copied from: legacy/mmb_upgraded/output/interactions_with_rules/sacratio_other_channel.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 3018520cbcfca81b060680beef17daf5d217a82a4396f1eed623f03df814989d

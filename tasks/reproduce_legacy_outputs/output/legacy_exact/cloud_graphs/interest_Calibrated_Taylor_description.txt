@@ -1,5 +1,0 @@
-Artifact: interest_Calibrated_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/interest_Calibrated_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: e5945716df0d558ade37cc51453ab6c796b6106fe16c534293ff57d96e1dfaea

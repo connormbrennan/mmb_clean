@@ -1,5 +1,0 @@
-Artifact: y_Estimated_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/y_Estimated_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 9dbff245e5fb87b88f99b17001bec22284a90ea5215324c1c674b9fd6f34bb0f

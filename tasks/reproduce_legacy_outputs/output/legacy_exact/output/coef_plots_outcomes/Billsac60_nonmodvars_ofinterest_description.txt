@@ -1,5 +1,0 @@
-Artifact: Billsac60_nonmodvars_ofinterest.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/Billsac60_nonmodvars_ofinterest.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 86e4cb66d17a69f796d227f2ea7f485e7b39d9b2184e78ffe4059f30602f1546

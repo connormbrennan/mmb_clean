@@ -1,5 +1,0 @@
-Artifact: y_Estimated Models under Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Estimated Models under Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: e4a34e87eef1567a354d63934d81cae3510d8cd6fddbf134ad73608b80a7aa90

@@ -1,5 +1,0 @@
-Artifact: Taylor Other.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Taylor Other.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: ee9ae9ad9c0c57a3a8a722eca9d17ea41c4f0f722461f732736b851a4424c083

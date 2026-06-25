@@ -1,5 +1,0 @@
-Artifact: rrate_Estimated Models under Inertial Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/rrate_Estimated Models under Inertial Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 9b5fc27443e3f19c10ed191806edeb18dbb303882c2579ae2c1b235e823ab42c

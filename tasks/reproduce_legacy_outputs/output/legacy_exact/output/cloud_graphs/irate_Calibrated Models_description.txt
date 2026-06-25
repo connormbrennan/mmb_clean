@@ -1,5 +1,0 @@
-Artifact: irate_Calibrated Models.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/irate_Calibrated Models.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: c01d12542f896e0f7e7410c42e4d5d021853f355614e15c26a3fbe59f106aceb

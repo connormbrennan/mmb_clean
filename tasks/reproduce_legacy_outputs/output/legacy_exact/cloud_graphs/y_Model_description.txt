@@ -1,5 +1,0 @@
-Artifact: y_Model.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/y_Model.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 6095e11eb5dec5ef3d2c82862853773f3855a4d19d5d226e0c4afa103c88a7c6

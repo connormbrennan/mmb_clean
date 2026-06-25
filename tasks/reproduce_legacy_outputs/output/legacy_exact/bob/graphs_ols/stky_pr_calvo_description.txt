@@ -1,5 +1,0 @@
-Artifact: stky_pr_calvo.png
-Copied from: legacy/mmb_upgraded/bob/graphs_ols/stky_pr_calvo.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 2c4960d130112ee841276446cdaf2aa687a16b281b10ba9805c5dae0cd387fe3

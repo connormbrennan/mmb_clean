@@ -1,5 +1,0 @@
-Artifact: y_Calibrated Models under Growth Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Calibrated Models under Growth Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 11efc6daf0452edd706fa52f17b65c9d2dbfe90a79e34a037019847d534a3317

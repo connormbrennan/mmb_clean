@@ -1,5 +1,0 @@
-Artifact: rrate_Calibrated_Growth.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/rrate_Calibrated_Growth.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 3aacf48d8b7a0f1106411e022663a29c11fb45eee5a0167190c0dfa58c8cfc96

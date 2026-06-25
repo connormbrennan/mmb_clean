@@ -1,5 +1,0 @@
-Artifact: other_channel_c.png
-Copied from: legacy/mmb_upgraded/bob/graphs_ols/other_channel_c.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: a957429d5bfdfb5d82c0397075da182675b23bc18b5cef1512a24e3ac7140969

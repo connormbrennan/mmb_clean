@@ -1,5 +1,0 @@
-Artifact: IS40_modvars_ofinterest.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_outcomes/IS40_modvars_ofinterest.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 44fb56328718e227cc0c301afb88d15ef13ae196ecdf5f61d6a28659e9a41c1d

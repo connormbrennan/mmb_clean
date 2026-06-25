@@ -1,5 +1,0 @@
-Artifact: piq_Calibrated_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/piq_Calibrated_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: ecf4f7135ba517f1dcccee167659f856e96d3503fbdf1f56957ad60b530b24e1

@@ -1,5 +1,0 @@
-Artifact: piq_.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/piq_.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 84de24de50f0fb3691c447e5d71829ed3a85c9b932ccfa68880b43d54c538e19

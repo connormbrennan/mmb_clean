@@ -1,5 +1,0 @@
-Artifact: y_timing_max_nonmodvars_ofinterest.pdf
-Copied from: legacy/mmb_upgraded/output/coef_plots_timing/y_timing_max_nonmodvars_ofinterest.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: dbf75de60bec5770dc416e8725f33f1bca71c81a47f3cd1ac39713c67ef9aeb1

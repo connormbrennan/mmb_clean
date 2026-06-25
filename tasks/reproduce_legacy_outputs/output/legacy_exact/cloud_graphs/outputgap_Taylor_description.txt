@@ -1,5 +1,0 @@
-Artifact: outputgap_Taylor.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/outputgap_Taylor.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 517a082fabc34a3accd60c9ba1393b1d8e067929a1fa9d82cbd18678fe780d63

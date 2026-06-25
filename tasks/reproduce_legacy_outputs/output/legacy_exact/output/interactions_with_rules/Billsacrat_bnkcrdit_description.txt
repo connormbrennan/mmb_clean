@@ -1,5 +1,0 @@
-Artifact: Billsacrat_bnkcrdit.pdf
-Copied from: legacy/mmb_upgraded/output/interactions_with_rules/Billsacrat_bnkcrdit.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 1c76e431b1b324bc10c5ea5cfe184675980ff0c7d252ba7a0a5094997370d3b2

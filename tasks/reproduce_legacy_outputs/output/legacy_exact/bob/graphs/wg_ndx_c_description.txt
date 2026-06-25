@@ -1,5 +1,0 @@
-Artifact: wg_ndx_c.png
-Copied from: legacy/mmb_upgraded/bob/graphs/wg_ndx_c.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 180be158d7ed6038e0ef33bacabd3e030b31239b37b976120f3502b95782c3d5

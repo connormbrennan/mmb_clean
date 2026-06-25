@@ -1,5 +1,0 @@
-Artifact: Model Other.png
-Copied from: legacy/mmb_upgraded/cloud_graphs/old_retired_8_3/Model Other.png
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: f7ab1c1714c647ac2565c5d6bb6fec71fe160c866fc09b61377346a37671541b

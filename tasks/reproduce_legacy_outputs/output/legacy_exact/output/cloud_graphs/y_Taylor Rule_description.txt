@@ -1,5 +1,0 @@
-Artifact: y_Taylor Rule.pdf
-Copied from: legacy/mmb_upgraded/output/cloud_graphs/y_Taylor Rule.pdf
-Purpose: exact legacy generated output preserved under the current task structure.
-Transformation: none; SHA-256 hash matches the legacy source file.
-SHA-256: 4e5259b66e9f2e39259a7bff1ce7a1683e4c69d0a2275a504f0ce954eb6b67e6
