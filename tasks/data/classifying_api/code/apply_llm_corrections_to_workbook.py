@@ -11,7 +11,7 @@ Outputs:
     ../output/Model_Characteristics_corrections_llm_summary.txt
 
 Run:
-    make corrections-workbook from tasks/data/classifying_v2/code/
+    make corrections-workbook from tasks/data/classifying_api/code/
 """
 
 from pathlib import Path
@@ -283,7 +283,7 @@ for correction in audit_rows:
             original_value = cell.value
             cell.value = corrected_value
             cell.comment = Comment(
-                "LLM correction from tasks/data/classifying_v2/output/model_audit.csv\n"
+                "LLM correction from tasks/data/classifying_api/output/model_audit.csv\n"
                 f"Original value: {clean_text(original_value)}\n"
                 f"LLM right_coding for Estimated/Calibrated: {raw_right_coding}\n"
                 f"Explanation: {correction['explanation']}",
@@ -322,7 +322,7 @@ for correction in audit_rows:
 
     cell.value = corrected_value
     cell.comment = Comment(
-        "LLM correction from tasks/data/classifying_v2/output/model_audit.csv\n"
+        "LLM correction from tasks/data/classifying_api/output/model_audit.csv\n"
         f"Original value: {clean_text(original_value)}\n"
         f"LLM right_coding: {raw_right_coding}\n"
         f"Explanation: {correction['explanation']}",

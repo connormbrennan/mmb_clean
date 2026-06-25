@@ -12,7 +12,7 @@ The workflow is:
 
 The task intentionally does not use Gemini Batch API because Batch API and Context Caching cannot be combined for this workflow.
 
-Run from `tasks/data/classifying_v2/code/`:
+Run from `tasks/data/classifying_api/code/`:
 
 ```sh
 make status
@@ -24,8 +24,8 @@ Use `make reset` or `make clean-output` before rerunning after prompt or compari
 
 ## Inputs
 
-- `input/Model_Characteristics_corrections.xlsx`: symlinked by the Makefile from `tasks/data/classifying/output/`.
-- `input/mmb_model_paper_map.md`: symlinked by the Makefile from `tasks/data/classifying/output/`.
+- `input/Model_Characteristics_corrections.xlsx`: baseline model-characteristics workbook.
+- `input/mmb_model_paper_map.md`: model-to-paper source map.
 - `input/model_paper_files.csv`: explicit model-to-PDF manifest.
 - `input/papers`: symlinked by the Makefile to `SamplePapers/`.
 - `../../../../config/params.yaml`: Gemini model, temperature, cache TTL, output-token limit, file-processing timeout, and related run parameters.
@@ -63,7 +63,7 @@ Google Search grounding is enabled for external-metadata questions: `CB_Authors`
 - `output/gemini_raw_responses.jsonl`: raw response text and usage metadata.
 - `output/cache_manifest.csv`: uploaded file names and cache names by model.
 - `output/progress.log`: append-only resume/progress trace.
-- `output/classifying_v2_run_summary.txt`: latest status or run summary.
+- `output/classifying_api_run_summary.txt`: latest status or run summary.
 - `output/Model_Characteristics_corrections_llm.xlsx`: the first-sheet model-characteristics workbook with Gemini discrepancy corrections applied in-place, plus an `LLM_Corrections_Log` sheet.
 - `output/Model_Characteristics_corrections_llm_summary.txt`: metadata for the corrected workbook output.
 

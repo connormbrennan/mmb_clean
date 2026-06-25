@@ -21,8 +21,7 @@ Each task should be an economically meaningful unit, not a junk drawer.
 Data:
 
 - `data/import_mmb_legacy_data/`: links immutable MMB source inputs from the legacy archive into task outputs.
-- `data/classifying/`: hand-maintained model-classification source files used by the audit task.
-- `data/classifying_v2/`: audits model-characteristic codings with Gemini and writes the corrected workbook.
+- `data/classifying_api/`: audits model-characteristic codings with Gemini API calls and writes the corrected workbook.
 - `data/build_mmb_analysis_dataset/`: rebuilds the IRF panel and regression-format dataset in Python.
 
 Graphs:

@@ -286,3 +286,7 @@ A good entry records:
 ### Update
 - Updated `tasks/measurement/model_vs_rule_variance_decomposition` to validate one row per model-rule observation after filtering and to use the shared timing cutoff as an upper bound.
 - Kept the model-to-rule incremental ratio in the CSV but removed it from the paper-facing LaTeX table to avoid distracting ratio values when the rule increment is mechanically near zero.
+
+### Update
+- Deleted the old `tasks/data/classifying` workflow and renamed the Gemini API-based classification audit task from `tasks/data/classifying_v2` to `tasks/data/classifying_api`.
+- Copied the baseline workbook and model-paper map into `classifying_api/input/` so the preserved API task no longer depends on the deleted Codex-assisted classification task, and updated downstream dataset-build dependencies accordingly.

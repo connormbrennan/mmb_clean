@@ -43,8 +43,8 @@ FORCE:
 	$(MAKE) --no-print-directory -C ../../import_mmb_legacy_data/code ../output/bob_var_irfs.csv
 	test -f $@
 
-../../classifying_v2/output/Model_Characteristics_corrections_llm.xlsx: FORCE
-	$(MAKE) --no-print-directory -C ../../classifying_v2/code corrections-workbook
+../../classifying_api/output/Model_Characteristics_corrections_llm.xlsx: FORCE
+	$(MAKE) --no-print-directory -C ../../classifying_api/code corrections-workbook
 	test -f $@
 
 ../input/responses: | ../../import_mmb_legacy_data/output/responses ../input
@@ -53,8 +53,8 @@ FORCE:
 ../input/sacratios_csv: | ../../import_mmb_legacy_data/output/sacratios_csv ../input
 	ln -s ../../import_mmb_legacy_data/output/sacratios_csv $@
 
-../input/Model_Characteristics_corrections_llm.xlsx: | ../../classifying_v2/output/Model_Characteristics_corrections_llm.xlsx ../input
-	ln -s ../../classifying_v2/output/Model_Characteristics_corrections_llm.xlsx $@
+../input/Model_Characteristics_corrections_llm.xlsx: | ../../classifying_api/output/Model_Characteristics_corrections_llm.xlsx ../input
+	ln -s ../../classifying_api/output/Model_Characteristics_corrections_llm.xlsx $@
 
 ../input/bob_var_irfs.csv: | ../../import_mmb_legacy_data/output/bob_var_irfs.csv ../input
 	ln -s ../../import_mmb_legacy_data/output/bob_var_irfs.csv $@

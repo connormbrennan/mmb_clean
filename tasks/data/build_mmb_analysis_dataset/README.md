@@ -12,7 +12,7 @@ Inputs are symlinks created by this task's Makefile:
 
 - `input/responses/`: response CSVs from `tasks/data/import_mmb_legacy_data/output/responses/`
 - `input/sacratios_csv/`: sacrifice-ratio response CSVs from `tasks/data/import_mmb_legacy_data/output/sacratios_csv/`
-- `input/Model_Characteristics_corrections_llm.xlsx`, linked from `tasks/data/classifying_v2/output/`.
+- `input/Model_Characteristics_corrections_llm.xlsx`, linked from `tasks/data/classifying_api/output/`.
 - `input/bob_var_irfs.csv`
 - `config/params.yaml`
 

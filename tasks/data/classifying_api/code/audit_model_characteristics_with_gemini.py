@@ -17,10 +17,10 @@ Outputs:
     ../output/gemini_raw_responses.jsonl
     ../output/cache_manifest.csv
     ../output/progress.log
-    ../output/classifying_v2_run_summary.txt
+    ../output/classifying_api_run_summary.txt
 
 Run:
-    make run from tasks/data/classifying_v2/code/
+    make run from tasks/data/classifying_api/code/
 """
 
 
@@ -57,7 +57,7 @@ answers_path = output_dir / "gemini_all_answers.csv"
 raw_responses_path = output_dir / "gemini_raw_responses.jsonl"
 cache_manifest_path = output_dir / "cache_manifest.csv"
 progress_path = output_dir / "progress.log"
-summary_path = output_dir / "classifying_v2_run_summary.txt"
+summary_path = output_dir / "classifying_api_run_summary.txt"
 MAX_PDF_BYTES = 50 * 1024 * 1024
 
 
@@ -90,7 +90,7 @@ def read_params():
             line = raw_line.rstrip("\n")
             if not line.strip() or line.lstrip().startswith("#"):
                 continue
-            if line == "classifying_v2:":
+            if line == "classifying_api:":
                 in_section = True
                 continue
             if in_section and not line.startswith(" "):
@@ -554,7 +554,7 @@ def read_model_code(path):
 def write_summary(title, lines):
     output_dir.mkdir(parents=True, exist_ok=True)
     with open(summary_path, "w", encoding="utf-8") as f:
-        f.write(f"classifying_v2 {title}\n")
+        f.write(f"classifying_api {title}\n")
         f.write("=" * (16 + len(title)))
         f.write("\n\n")
         for line in lines:
@@ -747,7 +747,7 @@ def upload_and_cache_pdf(client, types, model, pdf_path, paper_label):
 
     # The SDK puts the local filename into an HTTP header during upload.
     # Copy to an ASCII-only temp filename so papers with accents upload cleanly.
-    with tempfile.TemporaryDirectory(prefix="classifying_v2_upload_") as temp_upload_dir:
+    with tempfile.TemporaryDirectory(prefix="classifying_api_upload_") as temp_upload_dir:
         upload_pdf_path = Path(temp_upload_dir) / f"{display_name}.pdf"
         shutil.copy2(pdf_path, upload_pdf_path)
         uploaded_file = client.files.upload(
@@ -1243,7 +1243,7 @@ rerun_unclear_outputs_flag = int(params.get("rerun_unclear_outputs", 0))
 use_google_search_for_external_metadata = int(
     params.get("use_google_search_for_external_metadata", params.get("use_google_search_for_cb_authors", 1))
 )
-run_stage = clean_text(os.environ.get("CLASSIFYING_V2_STAGE", params.get("run_stage", "status"))).lower()
+run_stage = clean_text(os.environ.get("CLASSIFYING_API_STAGE", params.get("run_stage", "status"))).lower()
 reset_unclear_pairs_count = 0
 
 
@@ -1366,7 +1366,7 @@ elif run_stage == "run":
     client = genai.Client()
     run_cached_audit(client, types)
 else:
-    raise SystemExit(f"Unknown CLASSIFYING_V2_STAGE: {run_stage}")
+    raise SystemExit(f"Unknown CLASSIFYING_API_STAGE: {run_stage}")
 
 
 if summary_path.exists():

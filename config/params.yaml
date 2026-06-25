@@ -170,7 +170,7 @@ mmb_regression_tables:
     y_timing_max: "Output timing"
     piq_timing_max: "Inflation timing"
 
-classifying_v2:
+classifying_api:
   gemini_model: "gemini-3.5-flash"
   cache_ttl_seconds: 172800
   temperature: 1.0
